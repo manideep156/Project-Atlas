@@ -13,7 +13,7 @@ The goal is not just to learn concepts, but to build a strong portfolio with not
 ## 🗺️ Learning Roadmap
 
 - [x] Python Fundamentals
-- [ ] NumPy
+- [x] NumPy
 - [ ] Pandas
 - [ ] Data Visualization
 - [ ] SQL
