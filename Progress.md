@@ -220,3 +220,114 @@ Next Milestone:
 ## GitHub Commit
 
 Day 3: Broadcasting, vectorization, boolean masking, random number generation, mini challenge and bonus challenge completed.
+
+---
+
+# ✅ Day 4 – Advanced NumPy Operations
+
+**Date:** July 9, 2026
+
+## Topics Completed
+
+### Copy vs View
+
+- Memory sharing
+- Independent copies
+- `.base`
+- `.copy()`
+
+### Sorting
+
+- sort()
+- argsort()
+- Ranking values
+
+### Unique Values
+
+- Removing duplicates
+- Counting frequencies
+- Category identification
+
+### Searching
+
+- where()
+- argmax()
+- argmin()
+
+### Stacking
+
+- Vertical stacking
+- Horizontal stacking
+- Column stacking
+
+### Splitting
+
+- split()
+- hsplit()
+- vsplit()
+
+---
+
+## Mini Challenge Completed
+
+### Sales Data Analysis
+
+Completed:
+
+- Statistical analysis
+- Searching operations
+- Sorting operations
+- Unique value analysis
+
+---
+
+## ⭐ Bonus Challenge Completed
+
+### Movie Ratings Analysis
+
+Completed:
+
+- Rating statistics
+- Searching
+- Sorting
+- Frequency analysis
+
+---
+
+## Practical Skills Gained
+
+- Understanding memory behavior in NumPy
+- Sorting and ranking data
+- Working with unique values
+- Searching efficiently
+- Combining and splitting datasets
+
+---
+
+## Confidence Level
+
+| Topic | Status |
+|---|---|
+| Array Creation | 🟢 Strong |
+| Indexing & Slicing | 🟢 Strong |
+| Broadcasting | 🟢 Strong |
+| Vectorization | 🟢 Strong |
+| Boolean Masking | 🟢 Strong |
+| Copy vs View | 🟢 Comfortable |
+| Sorting | 🟢 Comfortable |
+| Unique Values | 🟢 Comfortable |
+| Searching | 🟢 Comfortable |
+| Stacking & Splitting | 🟢 Comfortable |
+
+---
+
+## Overall Progress
+
+Project Atlas is progressing consistently.
+
+Core NumPy fundamentals are now largely complete. The focus is shifting from learning individual functions to combining them in practical data analysis tasks.
+
+Next Milestone:
+- NumPy consolidation
+- Real-world mini project
+- Transition to Pandas
