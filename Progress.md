@@ -331,3 +331,101 @@ Next Milestone:
 - NumPy consolidation
 - Real-world mini project
 - Transition to Pandas
+
+---
+
+# ✅ Day 5 – NumPy Mastery & Problem Solving
+
+**Date:** July 10, 2026
+
+## Topics Completed
+
+### Fancy Indexing
+
+- Integer array indexing
+- Selecting rows and columns
+- Extracting specific elements
+- Difference from slicing
+
+### Advanced Boolean Masking
+
+- Multiple conditions
+- Logical operators
+- Conditional filtering
+- Counting filtered results
+
+### Advanced Array Manipulation
+
+- Reshaping
+- Conditional replacement
+- Combining indexing with masking
+- Broadcasting applications
+
+---
+
+## Mini Challenge Completed
+
+### Retail Sales Analysis
+
+Completed:
+
+- Dataset exploration
+- Sales aggregation
+- Product-wise analysis
+- Week-wise analysis
+- Performance comparison
+- Broadcasting operations
+
+---
+
+## ⭐ Bonus Challenge Completed
+
+### Cricket Tournament Analysis
+
+Completed:
+
+- Score statistics
+- Player categorization
+- Ranking
+- Boolean filtering
+- Performance analysis
+
+---
+
+## Practical Skills Gained
+
+- Applying Fancy Indexing effectively
+- Combining multiple Boolean conditions
+- Solving realistic analytical problems
+- Thinking in vectorized operations
+- Using NumPy as a data analysis tool instead of just an array library
+
+---
+
+## Confidence Level
+
+| Topic | Status |
+|---|---|
+| NumPy Fundamentals | 🟢 Strong |
+| Broadcasting | 🟢 Strong |
+| Vectorization | 🟢 Strong |
+| Boolean Masking | 🟢 Strong |
+| Aggregations | 🟢 Strong |
+| Searching | 🟢 Strong |
+| Sorting | 🟢 Strong |
+| Fancy Indexing | 🟢 Comfortable |
+| Array Manipulation | 🟢 Comfortable |
+
+---
+
+## Overall Progress
+
+Completed five structured days of NumPy learning with consistent documentation, practice, challenges, and GitHub commits.
+
+Current Focus:
+- Integrating multiple NumPy concepts to solve realistic analytical problems.
+
+Next Milestone:
+- Complete the first end-to-end NumPy project.
+- Refine documentation and GitHub portfolio.
+- Transition confidently into Pandas for tabular data analysis.
