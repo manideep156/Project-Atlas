@@ -429,3 +429,52 @@ Next Milestone:
 - Complete the first end-to-end NumPy project.
 - Refine documentation and GitHub portfolio.
 - Transition confidently into Pandas for tabular data analysis.
+
+---
+
+# 🏆 Portfolio Project 01 – Retail Store Sales Analytics using NumPy
+
+**Date:** July 11, 2026
+
+## Project Completed
+
+Successfully completed the first end-to-end NumPy portfolio project.
+
+### Concepts Applied
+
+* Dataset Exploration
+* Statistical Analysis
+* Product Performance Analysis
+* Weekly Performance Analysis
+* Boolean Masking
+* Broadcasting
+* Sorting & Ranking
+* Business Simulations
+* Executive Summary
+
+---
+
+## Advanced NumPy Concepts Reinforced
+
+* Broadcasting with conditional multipliers
+* Boolean counting using `np.sum()`
+* Row-wise logical operations using `np.all()`
+* Product summary table creation using NumPy stacking
+* Combining multiple NumPy operations to solve business problems
+
+---
+
+## Key Learning Outcomes
+
+* Applied multiple NumPy concepts in a realistic business scenario.
+* Improved confidence in vectorized thinking instead of loop-based programming.
+* Learned to interpret analytical results and convert them into business recommendations.
+* Created a structured portfolio project with professional documentation.
+
+---
+
+## GitHub Milestone
+
+🎉 **Portfolio Project 01 Completed**
+
+This marks the successful completion of the NumPy foundation phase of Project Atlas and the beginning of portfolio-driven learning.
