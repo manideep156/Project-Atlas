@@ -622,3 +622,99 @@ Upcoming topics include:
 - [x] Week 1 Completed
 
 **Current Status:** 🟢 Ready to begin the Pandas phase of Project Atlas.
+
+---
+
+# ✅ Day 8 – Introduction to Pandas
+
+**Date:** July 13, 2026
+
+## Topics Completed
+
+### Pandas Fundamentals
+
+- Introduction to Pandas
+- Why Pandas is used
+- Relationship between NumPy and Pandas
+
+### Pandas Series
+
+- Creating Series from Lists
+- Creating Series from NumPy Arrays
+- Creating Series from Dictionaries
+- Custom Indexes
+
+### Pandas DataFrames
+
+- Creating DataFrames
+- Understanding Rows and Columns
+- Indexes
+- Column Labels
+
+### Data Inspection
+
+- `head()`
+- `tail()`
+- `info()`
+- `describe()`
+- `shape`
+- `columns`
+- `index`
+- `dtypes`
+
+### Data Selection & Filtering
+
+- Selecting single columns
+- Selecting multiple columns
+- Basic row filtering
+- Conditional filtering
+
+---
+
+## Practice Completed
+
+✅ Student Dataset
+
+✅ Employee Dataset
+
+✅ Project Atlas Study Tracker
+
+---
+
+## Key Learning Outcomes
+
+- Understood why Pandas is the industry standard for structured data.
+- Learned the difference between Series and DataFrames.
+- Gained confidence in creating and inspecting DataFrames.
+- Practiced selecting and filtering data using Pandas.
+- Completed two practical challenges to reinforce today's concepts.
+- Built a strong foundation for working with real-world datasets.
+
+---
+
+## Highlights
+
+- Successfully transitioned from NumPy to Pandas.
+- Completed all planned exercises and challenges.
+- Reinforced Pandas fundamentals through hands-on implementation.
+- Prepared to work with CSV files and larger datasets.
+
+---
+
+## Next Steps
+
+Tomorrow's topics:
+
+- Row selection using `loc[]`
+- Row selection using `iloc[]`
+- Reading CSV files
+- Advanced filtering
+- Real-world dataset exploration
+
+---
+
+## Current Status
+
+🟢 **Day 8 Successfully Completed**
+
+The NumPy foundation made learning Pandas significantly smoother, especially concepts related to indexing, filtering, aggregation, and structured data manipulation.
