@@ -718,3 +718,100 @@ Tomorrow's topics:
 🟢 **Day 8 Successfully Completed**
 
 The NumPy foundation made learning Pandas significantly smoother, especially concepts related to indexing, filtering, aggregation, and structured data manipulation.
+
+---
+
+# ✅ Day 9 – Pandas Data Import & Data Selection
+
+**Date:** July 14, 2026
+
+## Topics Completed
+
+### Reading Data
+
+- Importing CSV files
+- `read_csv()`
+- Understanding DataFrames
+
+### Dataset Inspection
+
+- `head()`
+- `tail()`
+- `shape`
+- `columns`
+- `index`
+- `dtypes`
+- `info()`
+- `describe()`
+- `memory_usage()`
+
+### Data Selection
+
+- Single column selection
+- Multiple column selection
+- Row selection using `loc[]`
+- Row selection using `iloc[]`
+
+### Data Filtering
+
+- Single-condition filtering
+- Multiple-condition filtering
+- AND (`&`)
+- OR (`|`)
+- NOT (`~`)
+- `isin()`
+- `between()`
+- `query()`
+
+---
+
+## Practice Completed
+
+✅ Titanic Dataset Exploration
+
+✅ Dataset Inspection
+
+✅ Data Selection
+
+✅ Data Filtering
+
+✅ Analyst Challenge – Passenger Investigation
+
+---
+
+## Key Learning Outcomes
+
+- Learned how to import and inspect real-world datasets using Pandas.
+- Understood the difference between label-based and position-based indexing.
+- Gained confidence in selecting and filtering data efficiently.
+- Applied today's concepts to solve realistic data retrieval tasks.
+- Established a professional workflow for beginning any data analysis project.
+
+---
+
+## Highlights
+
+- Successfully transitioned from manually created datasets to real-world data.
+- Completed all planned exercises without major difficulties.
+- Reinforced Pandas fundamentals through hands-on implementation using the Titanic dataset.
+
+---
+
+## Next Steps
+
+Tomorrow's topics:
+
+- Missing Values
+- Data Cleaning
+- `isnull()`
+- `notnull()`
+- `fillna()`
+- `dropna()`
+
+---
+
+## Current Status
+
+🟢 **Day 9 Successfully Completed**
+
+The ability to import, inspect, select, and filter data provides the foundation for all future data analysis and machine learning workflows.
