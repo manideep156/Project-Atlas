@@ -815,3 +815,57 @@ Tomorrow's topics:
 🟢 **Day 9 Successfully Completed**
 
 The ability to import, inspect, select, and filter data provides the foundation for all future data analysis and machine learning workflows.
+
+---
+
+# ✅ Day 10 – Missing Values & Data Cleaning Fundamentals
+
+**Date:** July 15, 2026
+
+## Topics Covered
+
+- Understanding Missing Values
+- Types of Missing Data (MCAR, MAR, MNAR)
+- Detecting Missing Values (`isnull()`, `notnull()`)
+- Quantifying Missing Values
+- Removing Missing Values (`dropna()`)
+- Filling Missing Values (`fillna()`)
+- Choosing Appropriate Data Cleaning Strategies
+
+---
+
+## Practice Completed
+
+✅ Practice Dataset – Missing Value Detection
+
+✅ Practice Dataset – `dropna()` Variations
+
+✅ Practice Dataset – `fillna()` Techniques
+
+✅ Mini Challenge – Titanic Data Quality Report
+
+✅ Bonus Challenge – Titanic Data Cleaning Strategy
+
+---
+
+## Backlog
+
+None
+
+---
+
+## Focus for Day 11
+
+- Sorting Data
+- Ranking
+- `sort_values()`
+- `sort_index()`
+- `value_counts()`
+- `unique()`
+- `nunique()`
+
+---
+
+## Current Status
+
+🟢 Successfully completed the fundamentals of handling missing values and developed an understanding of selecting appropriate data cleaning strategies for real-world datasets.
