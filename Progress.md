@@ -869,3 +869,58 @@ None
 ## Current Status
 
 🟢 Successfully completed the fundamentals of handling missing values and developed an understanding of selecting appropriate data cleaning strategies for real-world datasets.
+
+---
+
+# ✅ Day 11 – Sorting & Exploring Data
+
+**Date:** July 16, 2026
+
+## Topics Covered
+
+- Data Exploration
+- `sort_values()`
+- `sort_index()`
+- `unique()`
+- `nunique()`
+- `value_counts()`
+- Ranking & Quick Exploration
+
+---
+
+## Practice Completed
+
+✅ Sorting Data
+
+✅ Sorting by Index
+
+✅ Identifying Unique Values
+
+✅ Frequency Analysis
+
+✅ Ranking Records
+
+✅ Mini Challenge – Passenger Distribution Report
+
+✅ Bonus Challenge – Passenger Ranking Report
+
+---
+
+## Backlog
+
+None
+
+---
+
+## Focus for Day 12
+
+- Grouping Data (`groupby()`)
+- Aggregation Functions
+- Multi-level Grouping
+- Real-world Business Analysis
+
+---
+
+## Current Status
+
+🟢 Successfully learned how to organize, summarize, and explore datasets using Pandas. These skills provide the foundation for grouping, aggregation, and exploratory data analysis.
