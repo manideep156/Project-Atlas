@@ -924,3 +924,56 @@ None
 ## Current Status
 
 🟢 Successfully learned how to organize, summarize, and explore datasets using Pandas. These skills provide the foundation for grouping, aggregation, and exploratory data analysis.
+
+---
+
+# ✅ Day 12 – GroupBy & Aggregation
+
+**Date:** July 17, 2026
+
+## Topics Covered
+
+- Understanding `groupby()`
+- Single Aggregation
+- Multiple Aggregations with `agg()`
+- Multi-column Grouping
+- Business Interpretation of Aggregated Data
+
+---
+
+## Practice Completed
+
+✅ Grouping Records
+
+✅ Single Aggregation Functions
+
+✅ Multiple Aggregations using `agg()`
+
+✅ Multi-level Grouping
+
+✅ Business Summary Generation
+
+✅ Mini Challenge – Titanic Business Report
+
+✅ Bonus Challenge – Executive Business Dashboard
+
+---
+
+## Backlog
+
+None
+
+---
+
+## Focus for Day 13
+
+- Applying Custom Functions with `apply()`
+- Transforming Data with `map()`
+- Replacing Values with `replace()`
+- Building Efficient Data Transformation Pipelines
+
+---
+
+## Current Status
+
+🟢 Successfully learned how to summarize and interpret grouped data using Pandas. I can now generate meaningful business insights from raw datasets using aggregation techniques.
