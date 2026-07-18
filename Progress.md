@@ -977,3 +977,57 @@ None
 ## Current Status
 
 🟢 Successfully learned how to summarize and interpret grouped data using Pandas. I can now generate meaningful business insights from raw datasets using aggregation techniques.
+
+---
+
+# ✅ Day 13 – Data Transformation with `map()`, `replace()` & `apply()`
+
+**Date:** July 18, 2026
+
+## Topics Covered
+
+- Data Transformation
+- `map()`
+- `replace()`
+- `apply()`
+- `apply(axis=1)`
+- Feature Engineering Basics
+
+---
+
+## Practice Completed
+
+✅ Value Mapping
+
+✅ Value Replacement
+
+✅ Custom Transformations
+
+✅ Row-wise Transformations
+
+✅ Feature Engineering
+
+✅ Mini Challenge – Passenger Data Transformation
+
+✅ Bonus Challenge – Preparing Data for Machine Learning
+
+---
+
+## Backlog
+
+None
+
+---
+
+## Focus for Day 14
+
+- Combining Datasets with `concat()`
+- Database-style Joins using `merge()`
+- Understanding Join Types
+- Real-world Data Integration
+
+---
+
+## Current Status
+
+🟢 Successfully learned how to transform datasets using Pandas by standardizing values, applying custom logic, and creating new analytical features for future analysis and machine learning.
