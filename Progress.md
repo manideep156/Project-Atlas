@@ -1031,3 +1031,57 @@ None
 ## Current Status
 
 🟢 Successfully learned how to transform datasets using Pandas by standardizing values, applying custom logic, and creating new analytical features for future analysis and machine learning.
+
+---
+
+# ✅ Day 14 – Combining Datasets with `concat()` & `merge()`
+
+**Date:** July 19, 2026
+
+## Topics Covered
+
+- Combining Datasets
+- `concat()`
+- `merge()`
+- Join Types
+- Keys
+- Multiple Merges
+
+---
+
+## Practice Completed
+
+✅ Row-wise Concatenation
+
+✅ Column-wise Concatenation
+
+✅ Basic Merging
+
+✅ Inner, Left, Right & Outer Joins
+
+✅ Multiple DataFrame Merging
+
+✅ Mini Challenge – Student Performance Report
+
+✅ Bonus Challenge – Retail Sales Dashboard
+
+---
+
+## Backlog
+
+None
+
+---
+
+## Focus for Day 15
+
+- Pivot Tables
+- Crosstab
+- Multi-level Aggregation
+- Business Reporting with Pivot Tables
+
+---
+
+## Current Status
+
+🟢 Successfully learned how to combine multiple datasets using `concat()` and `merge()`, understand different join types, and build unified datasets for real-world analytical reporting.
