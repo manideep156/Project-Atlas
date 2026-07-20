@@ -1085,3 +1085,61 @@ None
 ## Current Status
 
 🟢 Successfully learned how to combine multiple datasets using `concat()` and `merge()`, understand different join types, and build unified datasets for real-world analytical reporting.
+
+---
+
+# ✅ Day 15 – Pivot Tables, Crosstab & Business Reporting
+
+**Date:** July 20, 2026
+
+## Topics Covered
+
+- Basic Pivot Tables
+- Multi-Dimensional Pivot Tables
+- Multiple Aggregation Functions
+- Pivot Table Parameters
+- Crosstab
+- Normalized Crosstab
+- Business Reporting
+
+---
+
+## Practice Completed
+
+✅ Revenue Summary by Region
+
+✅ Multi-Dimensional Pivot Tables
+
+✅ Multiple Aggregation Reports
+
+✅ Pivot Reports with Totals
+
+✅ Frequency Analysis using Crosstab
+
+✅ Mini Challenge – Titanic Passenger Summary
+
+✅ Bonus Challenge – Titanic Management Dashboard
+
+✅ Analyst Extension Challenge
+
+---
+
+## Backlog
+
+None
+
+---
+
+## Focus for Day 16
+
+- Reshaping DataFrames
+- `melt()`
+- `stack()`
+- `unstack()`
+- Wide vs Long Data Formats
+
+---
+
+## Current Status
+
+🟢 Successfully learned how to create business-ready reports using Pandas pivot tables and crosstabs, summarize numerical data across multiple dimensions, and analyze categorical distributions for decision-making.
