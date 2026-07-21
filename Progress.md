@@ -1143,3 +1143,58 @@ None
 ## Current Status
 
 🟢 Successfully learned how to create business-ready reports using Pandas pivot tables and crosstabs, summarize numerical data across multiple dimensions, and analyze categorical distributions for decision-making.
+
+---
+
+# ✅ Day 16 – Reshaping Data with `melt()`, `stack()`, `unstack()` & `explode()`
+
+**Date:** July 21, 2026
+
+## Topics Covered
+
+- Wide vs Long Data
+- `melt()`
+- `stack()`
+- `unstack()`
+- `explode()`
+- Choosing the Right Reshaping Technique
+
+---
+
+## Practice Completed
+
+✅ Wide vs Long Format Analysis
+
+✅ `melt()` Practice
+
+✅ `stack()` & `unstack()` Practice
+
+✅ `explode()` Practice
+
+✅ Mini Challenge – Student Marks Reshaping
+
+✅ Bonus Challenge – Sales Data Transformation
+
+✅ Analyst Extension Challenge
+
+---
+
+## Backlog
+
+None
+
+---
+
+## Focus for Day 17
+
+- Date & Time Handling
+- `to_datetime()`
+- Datetime Components
+- Date Filtering
+- Time Series Fundamentals
+
+---
+
+## Current Status
+
+🟢 Successfully learned how to reshape datasets using `melt()`, `stack()`, `unstack()`, and `explode()`, preparing data for reporting, visualization, and advanced analytical workflows.
