@@ -230,4 +230,55 @@ Complete **Pandas** and build the second portfolio project.
 
 ---
 
-**Last Updated:** Day 16
+# ✅ Day 17 – Date & Time Handling with Pandas
+
+**Date:** July 27, 2026
+
+## Topics Covered
+
+- Datetime Objects
+- `pd.to_datetime()`
+- Datetime Components (`.dt`)
+- Date Filtering
+- Date Arithmetic
+- Timedelta
+
+---
+
+## Practice Completed
+
+✅ Datetime Conversion
+
+✅ Date Component Extraction
+
+✅ Date Filtering
+
+✅ Date Arithmetic
+
+✅ Mini Challenge – Employee Attendance Analysis
+
+✅ Bonus Challenge – Retail Sales Time Analysis
+
+✅ Analyst Extension Challenge
+
+---
+
+## Backlog
+
+None
+
+---
+
+## Focus for Day 18
+
+- Datetime Index
+- Time Series
+- Resampling
+- Rolling Windows
+- Moving Averages
+
+---
+
+## Current Status
+
+🟢 Successfully learned how to convert, manipulate, filter, and analyze datetime data using Pandas. Built a strong foundation for time-series analysis and enterprise ETL workflows in PySpark and Azure Databricks.

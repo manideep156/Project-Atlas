@@ -1,147 +1,156 @@
 # 🚀 Project Atlas
 
-> **A structured journey from Python fundamentals to Data Analytics, Machine Learning, and Artificial Intelligence Engineering.**
+> A structured roadmap documenting my journey from Python Fundamentals to Enterprise Data Analytics, Data Engineering, and Machine Learning.
 
 ---
 
-# 📌 About
+# 🎯 Mission
 
-Project Atlas is my personal learning repository where I document everything I study, practice, and build while transitioning into **Data Analytics, Machine Learning, and AI Engineering**.
+Project Atlas is my long-term learning repository where I document every concept, notebook, project, and milestone while transitioning into modern Data Analytics and Data Engineering.
 
-The objective is not only to learn concepts but also to build a strong portfolio through hands-on notebooks, real-world projects, detailed notes, and continuous documentation of my progress.
+Rather than following scattered tutorials, this repository follows a structured roadmap inspired by industry workflows.
 
 Every topic includes:
-- 📚 Structured Notes
-- 💻 Hands-on Practice
-- 📝 Jupyter Notebooks
-- 🚀 Portfolio Projects
+
+- 📓 Hands-on notebooks
+- 📝 Detailed notes
+- 🧩 Mini Challenges
+- 🚀 Bonus Challenges
+- 🏆 Portfolio Projects
 - 📈 Progress Tracking
 
 ---
 
-# 🏆 Major Milestones
+# 🗺️ Learning Roadmap
 
-- [x] Python Foundations Completed
-- [x] NumPy Learning Phase Completed
-- [x] Portfolio Project 01 – Retail Store Sales Analytics
-- [ ] Pandas Learning Phase
-- [ ] Portfolio Project 02
-- [ ] Data Visualization Phase
-- [ ] Portfolio Project 03
-- [ ] SQL Learning Phase
-- [ ] Portfolio Project 04
-- [ ] Statistics for Data Science
-- [ ] Power BI Dashboard Project
-- [ ] Machine Learning Phase
-- [ ] Portfolio Project 05
-- [ ] Deep Learning Phase
-- [ ] Portfolio Project 06
-- [ ] Generative AI
-- [ ] AI Agents
-- [ ] MLOps & Deployment
-- [ ] Project Atlas Completed 🎯
+## Phase 1 — Python
+
+- [x] Python Fundamentals
+
+---
+
+## Phase 2 — NumPy
+
+- [x] Arrays
+- [x] Broadcasting
+- [x] Vectorization
+- [x] Portfolio Project
+
+---
+
+## Phase 3 — Pandas
+
+- [x] Fundamentals
+- [x] Data Cleaning
+- [x] GroupBy
+- [x] Merge
+- [x] Pivot Tables
+- [x] Reshaping
+- [ ] Date & Time
+- [ ] Time Series
+- [ ] Portfolio Project
+
+---
+
+## Phase 4 — PySpark
+
+- [ ] Spark DataFrames
+- [ ] Transformations
+- [ ] Aggregations
+- [ ] Window Functions
+- [ ] ETL Pipeline
+
+---
+
+## Phase 5 — Azure Databricks
+
+- [ ] Workspace
+- [ ] Notebooks
+- [ ] Delta Lake
+- [ ] Spark Jobs
+- [ ] Data Pipelines
+
+---
+
+## Phase 6 — SQL
+
+- [ ] Fundamentals
+- [ ] Intermediate
+- [ ] Advanced
+- [ ] Business Case Studies
+
+---
+
+## Phase 7 — Data Visualization
+
+- [ ] Matplotlib
+- [ ] Seaborn
+- [ ] Dashboards
+
+---
+
+## Phase 8 — Machine Learning
+
+- [ ] Regression
+- [ ] Classification
+- [ ] Clustering
+- [ ] Model Evaluation
+
+---
+
+# 🏆 Portfolio Projects
+
+| Project | Technology | Status |
+|---------|------------|:------:|
+| Retail Sales Analytics | NumPy | ✅ |
+| Business Analytics | Pandas | ⬜ |
+| Retail ETL Pipeline | PySpark | ⬜ |
+| Azure Retail Analytics | Databricks | ⬜ |
+| SQL Business Dashboard | SQL | ⬜ |
+| Machine Learning Capstone | Scikit-learn | ⬜ |
+
+---
+
+# 📊 Current Progress
+
+📍 Current Phase
+
+**Pandas**
+
+Current Day
+
+**17**
 
 ---
 
 # 📂 Repository Structure
 
 ```text
-Project-Atlas/
-│
-├── 01_Python/
-│   └── Python revision notebooks
-│
-├── 02_NumPy/
-│   └── NumPy learning notebooks
-│
-├── 03_Projects/
-│   └── Project01_Retail_Store_Analytics/
-│
-├── Notes/
-│   └── Daily learning notes & project documentation
-│
-├── Progress.md
-└── README.md
+01_Python/
+02_NumPy/
+03_Pandas/
+04_PySpark/
+05_Azure_Databricks/
+06_SQL/
+07_Matplotlib/
+08_Seaborn/
+09_Machine_Learning/
+
+Portfolio_Projects/
+
+Notes/
+
+Progress.md
+
+Roadmap.md
+
+Achievements.md
+
+Resources.md
 ```
-
----
-
-# 🚀 Portfolio Projects
-
-| No. | Project | Technology | Status |
-|----:|---------|------------|--------|
-| 01 | Retail Store Sales Analytics | NumPy | ✅ Completed |
-
-More portfolio projects will be added as I progress through Pandas, SQL, Data Visualization, Machine Learning, and AI.
-
----
-
-# 📈 Current Focus
-
-🟢 **Completed**
-
-- Python Fundamentals
-- NumPy Fundamentals
-- Portfolio Project 01
-
-🟡 **Currently Learning**
-
-- Preparing to begin Pandas for Data Analysis
-
----
-
-# 🛠️ Tech Stack
-
-### Current
-
-- Python 3.11
-- NumPy
-- Jupyter Notebook
-- VS Code
-- Git
-- GitHub
-
-### Upcoming
-
-- Pandas
-- Matplotlib
-- Seaborn
-- SQL
-- Power BI
-- Scikit-learn
-- TensorFlow / PyTorch
-- FastAPI
-- Docker
-
----
-
-# 📅 Progress Tracking
-
-- 📈 Daily updates are maintained in **Progress.md**
-- 📚 Detailed revision notes are available in the **Notes** directory
-- 🚀 Portfolio projects are available in the **03_Projects** directory
 
 ---
 
 # 🎯 Goal
 
-Build strong practical skills in:
-
-- Python
-- Data Analytics
-- Machine Learning
-- Artificial Intelligence
-
-while creating portfolio-quality projects that demonstrate analytical thinking and real-world problem-solving.
-
----
-
-# 🌟 Learning Philosophy
-
-> **Learn → Practice → Build → Document → Share**
-
-Every concept is reinforced through implementation, documentation, and portfolio projects rather than tutorials alone.
-
----
-
-⭐ **Project Atlas is continuously updated as I progress through Data Analytics, Machine Learning, and Artificial Intelligence.**
+Build an industry-ready portfolio demonstrating practical skills in Data Analytics, Data Engineering, and Machine Learning.
