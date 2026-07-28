@@ -1,5 +1,19 @@
 # 📜 Changelog
 
+## Day 18 (July 28, 2026)
+
+### Added
+
+- Time Series Analysis
+- Datetime Index
+- Resampling
+- Rolling Statistics
+- Trend Analysis
+- Website Traffic Analysis
+- Electricity Consumption Analysis
+
+---
+
 ## v2.0 (July 27, 2026)
 
 ### Repository Changes

@@ -1,6 +1,6 @@
 # 🚀 Project Atlas
 
-> A structured roadmap documenting my journey from Python Fundamentals to Data Analytics, Machine Learning, and Artificial Intelligence.
+> A structured roadmap documenting my journey from Python Fundamentals to Enterprise Data Analytics, Data Engineering, and Machine Learning.
 
 ---
 
@@ -10,12 +10,12 @@
 
 🟡 **Phase 3 — Pandas**
 
-**Current Day:** 16 / 60
+**Current Day:** **18 / 60**
 
 **Overall Completion**
 
 ```text
-███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░ 27%
+██████████████████░░░░░░░░░░░░░░░░░░░░░░░ 30%
 ```
 
 ---
@@ -64,26 +64,41 @@
 | 14 | Combining Datasets | ✅ |
 | 15 | Pivot Tables | ✅ |
 | 16 | Data Reshaping | ✅ |
-| 17 | Date & Time | ⏳ |
-| 18 | Time Series | ⬜ |
+| 17 | Date & Time | ✅ |
+| 18 | Time Series | ✅ |
 | 19 | Advanced Pandas | ⬜ |
-| 20 | Portfolio Project | ⬜ |
+| 20 | Pandas Portfolio Project | ⬜ |
 
 **Phase Status:** 🟡 In Progress
 
 ---
 
-## 📊 Phase 4 — Data Visualization
+## ⚡ Phase 4 — PySpark
 
 | Module | Status |
 |---------|:------:|
-| Matplotlib | ⬜ |
-| Seaborn | ⬜ |
-| Visualization Project | ⬜ |
+| Spark Fundamentals | ⬜ |
+| DataFrames | ⬜ |
+| Transformations | ⬜ |
+| Aggregations | ⬜ |
+| Window Functions | ⬜ |
+| ETL Pipeline Project | ⬜ |
 
 ---
 
-## 🗄️ Phase 5 — SQL
+## ☁️ Phase 5 — Azure Databricks
+
+| Module | Status |
+|---------|:------:|
+| Workspace & Clusters | ⬜ |
+| Databricks Notebooks | ⬜ |
+| Delta Lake | ⬜ |
+| Spark Jobs | ⬜ |
+| Data Pipelines | ⬜ |
+
+---
+
+## 🗄️ Phase 6 — SQL
 
 | Module | Status |
 |---------|:------:|
@@ -94,14 +109,24 @@
 
 ---
 
-## 🤖 Phase 6 — Machine Learning
+## 📊 Phase 7 — Data Visualization
+
+| Module | Status |
+|---------|:------:|
+| Matplotlib | ⬜ |
+| Seaborn | ⬜ |
+| Dashboard Project | ⬜ |
+
+---
+
+## 🤖 Phase 8 — Machine Learning
 
 | Module | Status |
 |---------|:------:|
 | Supervised Learning | ⬜ |
 | Unsupervised Learning | ⬜ |
 | Model Evaluation | ⬜ |
-| Machine Learning Project | ⬜ |
+| Capstone Project | ⬜ |
 
 ---
 
@@ -110,8 +135,9 @@
 | Project | Technology | Status |
 |---------|------------|:------:|
 | Retail Store Sales Analytics | NumPy | ✅ |
-| Pandas Business Analytics | Pandas | ⬜ |
-| Data Visualization Dashboard | Matplotlib | ⬜ |
+| Business Analytics | Pandas | ⬜ |
+| Retail ETL Pipeline | PySpark | ⬜ |
+| Azure Retail Analytics | Azure Databricks | ⬜ |
 | SQL Business Intelligence | SQL | ⬜ |
 | Machine Learning Capstone | Scikit-learn | ⬜ |
 
@@ -144,19 +170,36 @@
 ## Pandas
 
 - ✅ Series & DataFrames
-- ✅ Selection
-- ✅ Filtering
+- ✅ Selection & Filtering
 - ✅ Missing Values
 - ✅ Sorting
-- ✅ GroupBy
-- ✅ Aggregation
+- ✅ GroupBy & Aggregation
 - ✅ Data Transformation
 - ✅ Merge & Concat
 - ✅ Pivot Tables
 - ✅ Crosstab
 - ✅ Data Reshaping
-- ⏳ Date & Time
-- ⬜ Time Series
+- ✅ Date & Time
+- ✅ Time Series
+- ⬜ Advanced Pandas
+- ⬜ Performance Optimization
+
+---
+
+## PySpark
+
+- ⬜ Spark DataFrames
+- ⬜ Data Transformations
+- ⬜ Aggregations
+- ⬜ Window Functions
+
+---
+
+## Azure Databricks
+
+- ⬜ Workspace
+- ⬜ Delta Lake
+- ⬜ Pipelines
 
 ---
 
@@ -164,15 +207,17 @@
 
 ## Next Learning Session
 
-**Day 17 — Date & Time Handling**
+**Day 19 — Advanced Pandas & Performance Optimization**
 
 Topics:
 
-- `pd.to_datetime()`
-- Datetime Objects
-- `.dt` Accessor
-- Date Filtering
-- Date Arithmetic
+- `sort_values()`
+- `rank()`
+- `nlargest()`
+- `nsmallest()`
+- `query()`
+- `eval()`
+- Performance Best Practices
 
 ---
 
@@ -183,9 +228,11 @@ Topics:
 | Python Complete | ✅ |
 | NumPy Complete | ✅ |
 | NumPy Portfolio | ✅ |
-| Pandas Fundamentals | 🟡 |
+| Pandas Fundamentals | ✅ |
+| Time Series | ✅ |
 | Pandas Portfolio | ⬜ |
-| Visualization | ⬜ |
+| PySpark | ⬜ |
+| Azure Databricks | ⬜ |
 | SQL | ⬜ |
 | Machine Learning | ⬜ |
 
@@ -195,11 +242,11 @@ Topics:
 
 | Metric | Value |
 |---------|------:|
-| Learning Days Completed | 16 |
-| Portfolio Projects | 1 |
-| Major Technologies | 3 |
+| Learning Days Completed | 18 |
+| Portfolio Projects Completed | 1 |
+| Major Technologies | 8 |
 | GitHub Commits | Growing Daily 🚀 |
-| Current Learning Streak | 16 Days |
+| Current Learning Streak | 18 Days |
 
 ---
 
@@ -221,64 +268,51 @@ Topics:
 - Document everything professionally.
 - Revise continuously.
 - Learn by solving business problems.
+- Learn technologies in enterprise workflow order.
 
 ---
 
 # 🚀 Next Milestone
 
-Complete **Pandas** and build the second portfolio project.
+Complete **Advanced Pandas** and build the **Business Analytics Portfolio Project** before transitioning to **PySpark** and **Azure Databricks**.
 
 ---
 
-# ✅ Day 17 – Date & Time Handling with Pandas
+# 📅 Latest Progress
 
-**Date:** July 27, 2026
+## ✅ Day 18 – Time Series Analysis with Pandas
 
-## Topics Covered
+**Date:** July 28, 2026
 
-- Datetime Objects
-- `pd.to_datetime()`
-- Datetime Components (`.dt`)
-- Date Filtering
-- Date Arithmetic
-- Timedelta
+### Topics Covered
+
+- Time Series Fundamentals
+- Datetime Index
+- Time-Based Indexing
+- Resampling
+- Rolling Statistics
+- Trend Analysis
 
 ---
 
-## Practice Completed
+### Practice Completed
 
-✅ Datetime Conversion
+✅ Daily Sales Time-Series Analysis
 
-✅ Date Component Extraction
+✅ Website Traffic Analysis
 
-✅ Date Filtering
-
-✅ Date Arithmetic
-
-✅ Mini Challenge – Employee Attendance Analysis
-
-✅ Bonus Challenge – Retail Sales Time Analysis
+✅ Electricity Consumption Analysis
 
 ✅ Analyst Extension Challenge
 
 ---
 
-## Backlog
+### Backlog
 
 None
 
 ---
 
-## Focus for Day 18
+### Current Status
 
-- Datetime Index
-- Time Series
-- Resampling
-- Rolling Windows
-- Moving Averages
-
----
-
-## Current Status
-
-🟢 Successfully learned how to convert, manipulate, filter, and analyze datetime data using Pandas. Built a strong foundation for time-series analysis and enterprise ETL workflows in PySpark and Azure Databricks.
+🟢 Successfully learned how to organize chronological datasets, perform time-based indexing, summarize data through resampling, calculate rolling statistics, and analyze business trends. Established a strong foundation for time-series analytics in both Pandas and future PySpark workflows.

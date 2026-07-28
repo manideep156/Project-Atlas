@@ -8,7 +8,10 @@
 
 🏆 Portfolio Project 01 Completed
 
-✅ Pandas Days 8–17 Completed
+✅ Pandas Days 8–18 Completed
+
+Current Focus:
+Advanced Pandas
 
 ---
 
