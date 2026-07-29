@@ -1,56 +1,158 @@
 # 🏆 Project Atlas Achievements
 
-## Learning Milestones
-
-✅ Python Fundamentals Completed
-
-✅ NumPy Completed
-
-🏆 Portfolio Project 01 Completed
-
-✅ Pandas Days 8–18 Completed
-
-Current Focus:
-Advanced Pandas
+This file records major learning milestones, completed assessments, and portfolio achievements throughout Project Atlas.
 
 ---
 
-## Portfolio Projects
+# 📚 Learning Milestones
 
-### Project 01
+## Python
 
-Retail Store Sales Analytics
+✅ Completed Python Fundamentals
 
-Technology:
+✅ Revised functions, lambda functions, and list comprehensions
 
-NumPy
-
-Status:
-
-Completed
+✅ Built a strong programming foundation for data analysis
 
 ---
 
-### Project 02
+## NumPy
 
-Business Analytics using Pandas
+✅ Completed NumPy Fundamentals
 
-Status:
+✅ Learned array indexing, slicing, reshaping, and aggregation
 
-In Progress
+✅ Applied broadcasting, masking, and vectorization
+
+✅ Completed advanced NumPy problem-solving exercises
+
+✅ Completed NumPy revision and self-assessment
 
 ---
 
-## Phase Assessments
+## Pandas
 
-Python
+✅ Completed Pandas fundamentals
 
-9/10
+✅ Learned DataFrame selection and filtering
 
-NumPy
+✅ Handled missing values and data-quality issues
 
-9/10
+✅ Performed sorting and exploratory analysis
 
-Pandas
+✅ Applied GroupBy and aggregation
 
-In Progress
+✅ Transformed business datasets
+
+✅ Combined datasets using merge and concat
+
+✅ Created pivot tables and crosstabs
+
+✅ Reshaped data using stack, unstack, melt, and pivot
+
+✅ Performed date and time analysis
+
+✅ Completed time-series analysis
+
+✅ Applied rolling statistics and resampling
+
+✅ Learned advanced sorting and ranking
+
+✅ Retrieved top and bottom records efficiently
+
+✅ Used `query()` and `eval()` for readable analysis
+
+✅ Applied Pandas performance best practices
+
+⏳ Pandas Portfolio Project Pending
+
+---
+
+## PySpark
+
+⬜ Not Started
+
+---
+
+## Azure Databricks
+
+⬜ Not Started
+
+---
+
+# 💼 Portfolio Projects
+
+## Project 01 – Retail Store Sales Analytics
+
+**Technology:** NumPy  
+**Status:** ✅ Completed
+
+### Achievements
+
+- Analyzed weekly product sales.
+- Calculated totals, averages, maximums, minimums, and standard deviation.
+- Identified the best and worst-performing products.
+- Identified the strongest and weakest sales weeks.
+- Applied conditional sales simulations.
+- Created a NumPy summary table.
+- Documented business findings and project conclusions.
+
+---
+
+## Project 02 – Pandas Business Analytics
+
+**Technology:** Pandas  
+**Status:** ⬜ Scheduled for Day 20
+
+### Planned Scope
+
+- Data validation and cleaning
+- Missing-value treatment
+- Business transformations
+- Grouped analysis
+- Pivot-table reporting
+- Date and time analysis
+- Time-series analysis
+- KPI calculations
+- Ranking and performance analysis
+- Executive business insights
+
+---
+
+# 🧩 Applied Analysis Challenges
+
+✅ Employee Attendance Analysis
+
+✅ Retail Sales Time Analysis
+
+✅ Website Traffic Analysis
+
+✅ Electricity Consumption Analysis
+
+✅ Employee Performance Dashboard
+
+✅ E-Commerce Product Performance Analysis
+
+---
+
+# ⭐ Phase Assessments
+
+| Phase | Score | Status |
+|---|:---:|:---:|
+| Python | 9/10 | ✅ Completed |
+| NumPy | 9/10 | ✅ Completed |
+| Pandas | Pending | 🟡 Portfolio Project Remaining |
+
+---
+
+# 📈 Current Achievement Status
+
+**Learning Days Completed:** 19
+
+**Portfolio Projects Completed:** 1
+
+**Current Phase:** Pandas
+
+**Latest Achievement:** Completed Advanced Pandas and Performance Optimization
+
+**Next Achievement:** Complete the Pandas Business Analytics Portfolio Project
