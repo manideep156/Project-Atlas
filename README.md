@@ -103,7 +103,7 @@ Every topic includes:
 | Project | Technology | Status |
 |---------|------------|:------:|
 | Retail Sales Analytics | NumPy | ✅ |
-| Business Analytics | Pandas | ⬜ |
+| Business Analytics | Pandas | ✅ |
 | Retail ETL Pipeline | PySpark | ⬜ |
 | Azure Retail Analytics | Databricks | ⬜ |
 | SQL Business Dashboard | SQL | ⬜ |
