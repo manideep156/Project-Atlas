@@ -5,7 +5,6 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-success)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Learning](https://img.shields.io/badge/Learning-Continuous-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
