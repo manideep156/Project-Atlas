@@ -1,158 +1,195 @@
-# 🏆 Project Atlas Achievements
+# 🏆 Achievements
 
-This file records major learning milestones, completed assessments, and portfolio achievements throughout Project Atlas.
+> A collection of major milestones achieved throughout my Project Atlas learning journey.
 
 ---
 
-# 📚 Learning Milestones
+# 🎯 Purpose
+
+This document tracks the most significant accomplishments completed during Project Atlas.
+
+Unlike `Progress.md`, which records ongoing work, this file highlights major milestones that demonstrate long-term growth.
+
+---
+
+# 🥇 Learning Milestones
+
+| Milestone | Status |
+|-----------|:------:|
+| Python Fundamentals Completed | ✅ |
+| NumPy Phase Completed | ✅ |
+| Pandas Phase Completed | ✅ |
+| PySpark Phase | ⬜ |
+| Azure Databricks Phase | ⬜ |
+| SQL Phase | ⬜ |
+| Data Visualization Phase | ⬜ |
+| Machine Learning Phase | ⬜ |
+
+---
+
+# 📂 Portfolio Projects
+
+## 🥇 Portfolio Project 01
+
+### Retail Store Sales Analytics
+
+**Technology**
+
+- NumPy
+
+**Achievements**
+
+- Built the first end-to-end analytics project.
+- Applied vectorized NumPy operations.
+- Used statistical functions for business analysis.
+- Generated business insights from retail sales data.
+- Produced professional project documentation.
+
+**Status**
+
+✅ Completed
+
+---
+
+## 🥈 Portfolio Project 02
+
+### Business Sales Analytics
+
+**Technology**
+
+- Pandas
+
+**Achievements**
+
+- Performed complete data cleaning and preprocessing.
+- Engineered business features.
+- Built executive-level KPIs.
+- Conducted customer, category, regional, and shipping analysis.
+- Generated business recommendations.
+- Created professional project documentation.
+
+**Status**
+
+✅ Completed
+
+---
+
+## 🥉 Upcoming Projects
+
+| Project | Status |
+|---------|:------:|
+| Retail ETL Pipeline | ⬜ |
+| Azure Retail Analytics | ⬜ |
+| SQL Business Intelligence | ⬜ |
+| Data Visualization Dashboard | ⬜ |
+| Machine Learning Capstone | ⬜ |
+
+---
+
+# 📚 Technologies Mastered
 
 ## Python
 
-✅ Completed Python Fundamentals
+✅ Functions
 
-✅ Revised functions, lambda functions, and list comprehensions
+✅ Lambda Functions
 
-✅ Built a strong programming foundation for data analysis
+✅ List Comprehensions
 
 ---
 
 ## NumPy
 
-✅ Completed NumPy Fundamentals
+✅ Arrays
 
-✅ Learned array indexing, slicing, reshaping, and aggregation
+✅ Indexing
 
-✅ Applied broadcasting, masking, and vectorization
+✅ Slicing
 
-✅ Completed advanced NumPy problem-solving exercises
+✅ Broadcasting
 
-✅ Completed NumPy revision and self-assessment
+✅ Boolean Masking
+
+✅ Fancy Indexing
+
+✅ Vectorization
+
+✅ Statistical Analysis
 
 ---
 
 ## Pandas
 
-✅ Completed Pandas fundamentals
+✅ Series
 
-✅ Learned DataFrame selection and filtering
+✅ DataFrames
 
-✅ Handled missing values and data-quality issues
+✅ Data Cleaning
 
-✅ Performed sorting and exploratory analysis
+✅ Missing Values
 
-✅ Applied GroupBy and aggregation
+✅ GroupBy
 
-✅ Transformed business datasets
+✅ Aggregation
 
-✅ Combined datasets using merge and concat
+✅ Merge
 
-✅ Created pivot tables and crosstabs
+✅ Concat
 
-✅ Reshaped data using stack, unstack, melt, and pivot
+✅ Pivot Tables
 
-✅ Performed date and time analysis
+✅ Crosstab
 
-✅ Completed time-series analysis
+✅ Feature Engineering
 
-✅ Applied rolling statistics and resampling
+✅ Ranking
 
-✅ Learned advanced sorting and ranking
+✅ Query
 
-✅ Retrieved top and bottom records efficiently
+✅ Eval
 
-✅ Used `query()` and `eval()` for readable analysis
+✅ Business KPI Creation
 
-✅ Applied Pandas performance best practices
-
-⏳ Pandas Portfolio Project Pending
+✅ Executive Analytics
 
 ---
 
-## PySpark
+# 💻 Development Tools
 
-⬜ Not Started
+Successfully used throughout the learning journey:
 
----
-
-## Azure Databricks
-
-⬜ Not Started
-
----
-
-# 💼 Portfolio Projects
-
-## Project 01 – Retail Store Sales Analytics
-
-**Technology:** NumPy  
-**Status:** ✅ Completed
-
-### Achievements
-
-- Analyzed weekly product sales.
-- Calculated totals, averages, maximums, minimums, and standard deviation.
-- Identified the best and worst-performing products.
-- Identified the strongest and weakest sales weeks.
-- Applied conditional sales simulations.
-- Created a NumPy summary table.
-- Documented business findings and project conclusions.
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
 
 ---
 
-## Project 02 – Pandas Business Analytics
+# 📈 Repository Statistics
 
-**Technology:** Pandas  
-**Status:** ⬜ Scheduled for Day 20
-
-### Planned Scope
-
-- Data validation and cleaning
-- Missing-value treatment
-- Business transformations
-- Grouped analysis
-- Pivot-table reporting
-- Date and time analysis
-- Time-series analysis
-- KPI calculations
-- Ranking and performance analysis
-- Executive business insights
+| Metric | Value |
+|--------|------:|
+| Learning Sessions Completed | **20** |
+| Completed Portfolio Projects | **2** |
+| Completed Learning Phases | **3** |
+| Current Phase | **PySpark Fundamentals** |
 
 ---
 
-# 🧩 Applied Analysis Challenges
+# 🌟 Highlights
 
-✅ Employee Attendance Analysis
-
-✅ Retail Sales Time Analysis
-
-✅ Website Traffic Analysis
-
-✅ Electricity Consumption Analysis
-
-✅ Employee Performance Dashboard
-
-✅ E-Commerce Product Performance Analysis
+- Completed three learning phases.
+- Built two portfolio-quality analytics projects.
+- Solved real-world business analysis problems.
+- Documented every project professionally.
+- Established a strong foundation for distributed data engineering.
 
 ---
 
-# ⭐ Phase Assessments
+# 🚀 Next Achievement
 
-| Phase | Score | Status |
-|---|:---:|:---:|
-| Python | 9/10 | ✅ Completed |
-| NumPy | 9/10 | ✅ Completed |
-| Pandas | Pending | 🟡 Portfolio Project Remaining |
+🏆 Complete **Phase 4 – PySpark Fundamentals** and build **Project 03 – Retail ETL Pipeline**, introducing distributed data processing and scalable ETL workflows into Project Atlas.
 
 ---
 
-# 📈 Current Achievement Status
-
-**Learning Days Completed:** 19
-
-**Portfolio Projects Completed:** 1
-
-**Current Phase:** Pandas
-
-**Latest Achievement:** Completed Advanced Pandas and Performance Optimization
-
-**Next Achievement:** Complete the Pandas Business Analytics Portfolio Project
+> *"Great achievements are built one milestone at a time."*

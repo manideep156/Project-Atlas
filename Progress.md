@@ -6,16 +6,20 @@
 
 # 📊 Overall Progress
 
-### Current Phase
+## Learning Progress
 
-🟡 **Phase 3 — Pandas**
+| Metric | Status |
+|---|---|
+| Learning Sessions Completed | **20** |
+| Portfolio Projects Completed | **2** |
+| Completed Phases | **Python • NumPy • Pandas** |
+| Current Phase | **Phase 4 – PySpark** |
+| Current Technology | **Apache Spark (PySpark)** |
 
-**Current Day:** **19 / 60**
-
-**Overall Completion**
+### Overall Completion
 
 ```text
-███████████████████░░░░░░░░░░░░░░░░░░░░░░ 32%
+████████████████████░░░░░░░░░░░░░░░░░░░░░ 33%
 ```
 
 ---
@@ -67,9 +71,9 @@
 | 17 | Date & Time | ✅ |
 | 18 | Time Series | ✅ |
 | 19 | Advanced Pandas & Optimization | ✅ |
-| 20 | Pandas Portfolio Project | ⬜ |
+| 20 | Pandas Portfolio Project | ✅ |
 
-**Phase Status:** 🟡 In Progress
+**Phase Status:** ✅ Completed
 
 ---
 
@@ -82,6 +86,7 @@
 | Transformations | ⬜ |
 | Aggregations | ⬜ |
 | Window Functions | ⬜ |
+| Spark SQL | ⬜ |
 | ETL Pipeline Project | ⬜ |
 
 **Phase Status:** ⬜ Not Started
@@ -146,7 +151,7 @@
 | Project | Technology | Status |
 |---|---|:---:|
 | Retail Store Sales Analytics | NumPy | ✅ |
-| Business Analytics Project | Pandas | ⬜ |
+| Business Sales Analytics | Pandas | ✅ |
 | Retail ETL Pipeline | PySpark | ⬜ |
 | Azure Retail Analytics | Azure Databricks | ⬜ |
 | SQL Business Intelligence | SQL | ⬜ |
@@ -200,7 +205,7 @@
 - ✅ `eval()`
 - ✅ Calculated Business Metrics
 - ✅ Performance Best Practices
-- ⬜ End-to-End Portfolio Analysis
+- ✅ End-to-End Business Analytics
 
 ---
 
@@ -210,7 +215,8 @@
 - ⬜ Transformations
 - ⬜ Aggregations
 - ⬜ Window Functions
-- ⬜ Spark ETL
+- ⬜ Spark SQL
+- ⬜ ETL Pipelines
 
 ---
 
@@ -226,44 +232,36 @@
 
 # 🎯 Current Focus
 
-## Next Learning Session
+## 🚀 Phase 4 — PySpark Fundamentals
 
-**Day 20 — Pandas Business Analytics Portfolio Project**
+### Current Objectives
 
-### Planned Focus
-
-- Importing a realistic business dataset
-- Understanding the business problem
-- Inspecting and validating the data
-- Cleaning missing and incorrect values
-- Transforming business columns
-- Combining datasets where required
-- GroupBy and aggregation
-- Pivot-table reporting
-- Date and time analysis
-- Time-series analysis
-- Product and regional rankings
-- KPI creation
-- Business insights
-- Executive summary
-- Project documentation
+- Understand Apache Spark Architecture
+- Learn Spark DataFrames
+- Read and Write Data
+- DataFrame Transformations
+- Filtering and Aggregations
+- Spark SQL
+- Compare Pandas vs PySpark
+- Understand Distributed Processing
 
 ---
 
-# 📈 Milestones
+## 🎯 Current Portfolio Goal
+
+Build **Project 03 – Retail ETL Pipeline** demonstrating distributed data processing using PySpark.
+
+---
+
+# 📈 Major Milestones
 
 | Milestone | Status |
 |---|:---:|
-| Python Complete | ✅ |
+| Python Fundamentals | ✅ |
 | NumPy Complete | ✅ |
-| NumPy Portfolio Project | ✅ |
-| Pandas Fundamentals | ✅ |
-| Pandas Data Cleaning | ✅ |
-| Pandas Aggregation & Transformation | ✅ |
-| Pandas Date & Time Analysis | ✅ |
-| Pandas Time-Series Analysis | ✅ |
-| Advanced Pandas | ✅ |
-| Pandas Portfolio Project | ⬜ |
+| Portfolio Project 01 | ✅ |
+| Pandas Complete | ✅ |
+| Portfolio Project 02 | ✅ |
 | PySpark | ⬜ |
 | Azure Databricks | ⬜ |
 | SQL | ⬜ |
@@ -276,12 +274,12 @@
 
 | Metric | Value |
 |---|---:|
-| Learning Days Completed | 19 |
-| Portfolio Projects Completed | 1 |
-| Active Phase | Pandas |
-| Major Technologies in Roadmap | 8 |
+| Learning Sessions | **20** |
+| Portfolio Projects | **2** |
+| Completed Phases | **3** |
+| Technologies Planned | **8** |
 | GitHub Commits | Growing Daily 🚀 |
-| Current Documented Streak | 19 Learning Days |
+| Current Learning Streak | **20 Days** |
 
 ---
 
@@ -289,105 +287,72 @@
 
 | Phase | Score |
 |---|:---:|
-| Python | 9/10 |
-| NumPy | 9/10 |
-| Pandas | Portfolio Project Pending |
+| Python | **9.0 / 10** |
+| NumPy | **9.0 / 10** |
+| Pandas | **9.5 / 10** |
+| PySpark | — |
 
 ---
 
 # 💡 Learning Principles
 
-- Understand concepts deeply.
-- Practice with realistic datasets.
+- Understand concepts before memorizing syntax.
 - Build portfolio-quality projects.
-- Document everything professionally.
-- Revise continuously.
-- Learn by solving business problems.
-- Prefer readable and efficient solutions.
-- Connect Pandas concepts with future PySpark workflows.
+- Solve realistic business problems.
+- Document every learning milestone.
+- Prefer clean, readable, and efficient code.
+- Connect concepts across Python, Pandas, PySpark, SQL, and Machine Learning.
+- Continuously revise and improve previous work.
 
 ---
 
 # 🚀 Next Milestone
 
-Complete the **Pandas Business Analytics Portfolio Project** and formally finish the Pandas phase before transitioning to **PySpark**.
+Begin **Phase 4 – PySpark Fundamentals** and prepare for **Project 03 – Retail ETL Pipeline**, where the business analytics workflow built in Pandas will be scaled to distributed data processing using Apache Spark.
 
 ---
 
 # 📅 Latest Progress
 
-## ✅ Day 19 – Advanced Pandas & Performance Optimization
+## ✅ Day 20 — Pandas Portfolio Project
 
-**Date:** July 29, 2026
+**Date:** **July 30, 2026**
 
-### Topics Covered
+### Project Completed
 
-- Advanced sorting with `sort_values()`
-- Multiple-column sorting
-- Ranking with `rank()`
-- Ranking methods and tie handling
-- Top-record selection with `nlargest()`
-- Bottom-record selection with `nsmallest()`
-- Expressive filtering with `query()`
-- Calculated expressions with `eval()`
-- Vectorized operations
-- Pandas performance best practices
+🏆 **Business Sales Analytics using Pandas**
 
 ---
 
-### Practice Completed
+### Summary
 
-✅ Employee Sales Dataset Analysis
-
-✅ Sorting and Multiple-Column Sorting
-
-✅ Employee and Product Ranking
-
-✅ Top and Bottom Record Selection
-
-✅ Multi-Condition Filtering with `query()`
-
-✅ Calculated Columns with `eval()`
-
-✅ Mini Challenge – Employee Performance Dashboard
-
-✅ Bonus Challenge – E-Commerce Product Performance
-
-✅ Analyst Extension Challenge
+Successfully completed the second portfolio project of **Project Atlas**, applying the complete Pandas workflow on a real-world retail dataset—from data cleaning and feature engineering to KPI generation, business analysis, and executive reporting.
 
 ---
 
-### Key Skills Gained
+### Highlights
 
-- Ranked business records using multiple ranking strategies.
-- Retrieved top and bottom records without unnecessary full sorting.
-- Applied readable filtering rules with `query()`.
-- Created calculated business metrics using vectorized expressions.
-- Compared standard Pandas expressions with `eval()`.
-- Applied practical performance-optimization principles.
-- Connected advanced Pandas operations to PySpark transformations and window functions.
-
----
-
-### Backlog
-
-None
+- ✅ Cleaned and validated the dataset
+- ✅ Engineered business metrics
+- ✅ Calculated KPIs
+- ✅ Performed category, regional, customer, shipping, and discount analysis
+- ✅ Generated executive business insights
+- ✅ Completed Mini, Bonus, and Analyst Challenges
+- ✅ Produced portfolio-ready documentation
 
 ---
 
-### Current Status
+### Milestones Achieved
 
-🟢 Successfully completed the final advanced Pandas learning session before the portfolio project. I can now sort, rank, filter, evaluate, and optimize business-data operations using readable and efficient Pandas techniques.
+- ✅ Completed **Phase 3 – Pandas**
+- ✅ Completed **Portfolio Project 02**
+- ✅ Completed **20 Learning Sessions**
+- ✅ Expanded Project Atlas with a second portfolio-quality project
 
 ---
 
-### Focus for Day 20
+### Next Phase
 
-- End-to-end Pandas business analysis
-- Data cleaning and validation
-- KPI creation
-- Grouped and time-based analysis
-- Pivot-table reporting
-- Business insights
-- Executive project summary
-- Portfolio documentation
+🚀 **PySpark Fundamentals**
+
+The next stage focuses on learning distributed data processing with Apache Spark before building **Project 03 – Retail ETL Pipeline**.
