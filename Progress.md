@@ -4,22 +4,20 @@
 
 ---
 
-# 📊 Overall Progress
-
-## Learning Progress
+# 📊 Current Progress
 
 | Metric | Status |
 |---|---|
-| Learning Sessions Completed | **20** |
-| Portfolio Projects Completed | **2** |
-| Completed Phases | **Python • NumPy • Pandas** |
-| Current Phase | **Phase 4 – PySpark** |
-| Current Technology | **Apache Spark (PySpark)** |
+| **Learning Sessions Completed** | **21** |
+| **Portfolio Projects Completed** | **2** |
+| **Completed Phases** | **Python • NumPy • Pandas** |
+| **Current Phase** | **Phase 4 – PySpark** |
+| **Current Topic** | **PySpark Foundations & Environment Setup** |
 
 ### Overall Completion
 
 ```text
-████████████████████░░░░░░░░░░░░░░░░░░░░░ 33%
+█████████████████████░░░░░░░░░░░░░░░░░░░░ 35%
 ```
 
 ---
@@ -28,52 +26,23 @@
 
 ## 🐍 Phase 1 — Python Fundamentals
 
-| Module | Status |
-|---|:---:|
-| Python Revision | ✅ |
-| Functions | ✅ |
-| Lambda Functions | ✅ |
-| List Comprehensions | ✅ |
-
-**Phase Status:** ✅ Completed
+**Status:** ✅ Completed
 
 ---
 
 ## 🔢 Phase 2 — NumPy
 
-| Day | Topic | Status |
-|---:|---|:---:|
-| 1 | NumPy Basics | ✅ |
-| 2 | Operations & Aggregation | ✅ |
-| 3 | Broadcasting | ✅ |
-| 4 | Advanced Operations | ✅ |
-| 5 | Problem Solving | ✅ |
-| 6 | Portfolio Project | ✅ |
-| 7 | Revision & Assessment | ✅ |
+**Status:** ✅ Completed
 
-**Phase Status:** ✅ Completed
+🏆 Portfolio Project 01 – Retail Store Sales Analytics
 
 ---
 
 ## 🐼 Phase 3 — Pandas
 
-| Day | Topic | Status |
-|---:|---|:---:|
-| 8 | Pandas Fundamentals | ✅ |
-| 9 | Selection & Filtering | ✅ |
-| 10 | Missing Values | ✅ |
-| 11 | Sorting & Exploration | ✅ |
-| 12 | GroupBy & Aggregation | ✅ |
-| 13 | Data Transformation | ✅ |
-| 14 | Combining Datasets | ✅ |
-| 15 | Pivot Tables | ✅ |
-| 16 | Data Reshaping | ✅ |
-| 17 | Date & Time | ✅ |
-| 18 | Time Series | ✅ |
-| 19 | Advanced Pandas & Optimization | ✅ |
-| 20 | Pandas Portfolio Project | ✅ |
+**Status:** ✅ Completed
 
-**Phase Status:** ✅ Completed
+🏆 Portfolio Project 02 – Business Sales Analytics
 
 ---
 
@@ -81,188 +50,154 @@
 
 | Module | Status |
 |---|:---:|
-| Spark Fundamentals | ⬜ |
+| Environment Setup | ✅ |
+| Spark Fundamentals | 🟡 |
 | Spark DataFrames | ⬜ |
-| Transformations | ⬜ |
+| DataFrame Transformations | ⬜ |
 | Aggregations | ⬜ |
+| Joins | ⬜ |
 | Window Functions | ⬜ |
 | Spark SQL | ⬜ |
 | ETL Pipeline Project | ⬜ |
 
-**Phase Status:** ⬜ Not Started
+**Phase Status:** 🟡 In Progress
 
 ---
 
 ## ☁️ Phase 5 — Azure Databricks
 
-| Module | Status |
-|---|:---:|
-| Workspace & Compute | ⬜ |
-| Databricks Notebooks | ⬜ |
-| Delta Lake | ⬜ |
-| Spark Jobs | ⬜ |
-| Data Pipelines | ⬜ |
-| Databricks Project | ⬜ |
-
-**Phase Status:** ⬜ Not Started
+**Status:** ⬜ Not Started
 
 ---
 
 ## 🗄️ Phase 6 — SQL
 
-| Module | Status |
-|---|:---:|
-| SQL Fundamentals | ⬜ |
-| Intermediate SQL | ⬜ |
-| Advanced SQL | ⬜ |
-| SQL Portfolio Project | ⬜ |
-
-**Phase Status:** ⬜ Not Started
+**Status:** ⬜ Not Started
 
 ---
 
 ## 📊 Phase 7 — Data Visualization
 
-| Module | Status |
-|---|:---:|
-| Matplotlib | ⬜ |
-| Seaborn | ⬜ |
-| Visualization Project | ⬜ |
-
-**Phase Status:** ⬜ Not Started
+**Status:** ⬜ Not Started
 
 ---
 
 ## 🤖 Phase 8 — Machine Learning
 
-| Module | Status |
-|---|:---:|
-| Supervised Learning | ⬜ |
-| Unsupervised Learning | ⬜ |
-| Model Evaluation | ⬜ |
-| Machine Learning Capstone | ⬜ |
-
-**Phase Status:** ⬜ Not Started
+**Status:** ⬜ Not Started
 
 ---
 
-# 🏆 Portfolio Projects
+# 🏆 Portfolio Roadmap
 
 | Project | Technology | Status |
 |---|---|:---:|
-| Retail Store Sales Analytics | NumPy | ✅ |
-| Business Sales Analytics | Pandas | ✅ |
-| Retail ETL Pipeline | PySpark | ⬜ |
-| Azure Retail Analytics | Azure Databricks | ⬜ |
-| SQL Business Intelligence | SQL | ⬜ |
-| Data Visualization Dashboard | Matplotlib & Seaborn | ⬜ |
-| Machine Learning Capstone | Scikit-learn | ⬜ |
+| Project 01 – Retail Store Sales Analytics | NumPy | ✅ |
+| Project 02 – Business Sales Analytics | Pandas | ✅ |
+| Project 03 – Retail ETL Pipeline | PySpark | ⬜ |
+| Project 04 – Azure Retail Analytics | Azure Databricks | ⬜ |
+| Project 05 – SQL Business Intelligence | SQL | ⬜ |
+| Project 06 – Business Dashboard | Matplotlib & Seaborn | ⬜ |
+| Project 07 – Machine Learning Capstone | Scikit-Learn | ⬜ |
 
 ---
 
-# 🧠 Skills Inventory
+# 🧠 Skills Completed
 
 ## Python
 
-- ✅ Functions
-- ✅ Lambda Functions
-- ✅ List Comprehensions
+✅ Functions
+
+✅ Lambda Functions
+
+✅ List Comprehensions
 
 ---
 
 ## NumPy
 
-- ✅ Arrays
-- ✅ Indexing & Slicing
-- ✅ Broadcasting
-- ✅ Boolean Masking
-- ✅ Vectorization
-- ✅ Searching
-- ✅ Sorting
-- ✅ Fancy Indexing
-- ✅ Statistical Analysis
+✅ Arrays
+
+✅ Broadcasting
+
+✅ Vectorization
+
+✅ Boolean Masking
+
+✅ Statistical Analysis
 
 ---
 
 ## Pandas
 
-- ✅ Series & DataFrames
-- ✅ Selection & Filtering
-- ✅ Missing Values
-- ✅ Sorting & Exploration
-- ✅ GroupBy & Aggregation
-- ✅ Data Transformation
-- ✅ Merge & Concat
-- ✅ Pivot Tables
-- ✅ Crosstab
-- ✅ Data Reshaping
-- ✅ Date & Time Handling
-- ✅ Time-Series Analysis
-- ✅ Advanced Sorting
-- ✅ Ranking Methods
-- ✅ Top and Bottom Record Selection
-- ✅ `query()`
-- ✅ `eval()`
-- ✅ Calculated Business Metrics
-- ✅ Performance Best Practices
-- ✅ End-to-End Business Analytics
+✅ Data Cleaning
+
+✅ Feature Engineering
+
+✅ GroupBy & Aggregation
+
+✅ Merge & Concat
+
+✅ Pivot Tables
+
+✅ Crosstab
+
+✅ Time Series
+
+✅ Ranking
+
+✅ query()
+
+✅ eval()
+
+✅ Business Analytics
 
 ---
 
 ## PySpark
 
-- ⬜ Spark DataFrames
-- ⬜ Transformations
-- ⬜ Aggregations
-- ⬜ Window Functions
-- ⬜ Spark SQL
-- ⬜ ETL Pipelines
+✅ Local Environment Setup
 
----
+🟡 Spark Fundamentals
 
-## Azure Databricks
+⬜ Spark DataFrames
 
-- ⬜ Workspace
-- ⬜ Compute
-- ⬜ Delta Lake
-- ⬜ Jobs
-- ⬜ Pipelines
+⬜ Transformations
+
+⬜ Spark SQL
+
+⬜ Window Functions
+
+⬜ ETL Pipelines
 
 ---
 
 # 🎯 Current Focus
 
-## 🚀 Phase 4 — PySpark Fundamentals
+## Phase 4 – PySpark
 
-### Current Objectives
+Current Objectives
 
-- Understand Apache Spark Architecture
-- Learn Spark DataFrames
-- Read and Write Data
-- DataFrame Transformations
-- Filtering and Aggregations
-- Spark SQL
+- Understand Apache Spark
+- Understand Spark Architecture
+- Learn SparkSession
+- Create Spark DataFrames
+- Read CSV Files
+- Perform Basic Transformations
 - Compare Pandas vs PySpark
-- Understand Distributed Processing
 
 ---
 
-## 🎯 Current Portfolio Goal
-
-Build **Project 03 – Retail ETL Pipeline** demonstrating distributed data processing using PySpark.
-
----
-
-# 📈 Major Milestones
+# 📈 Milestones
 
 | Milestone | Status |
 |---|:---:|
 | Python Fundamentals | ✅ |
-| NumPy Complete | ✅ |
+| NumPy Completed | ✅ |
 | Portfolio Project 01 | ✅ |
-| Pandas Complete | ✅ |
+| Pandas Completed | ✅ |
 | Portfolio Project 02 | ✅ |
-| PySpark | ⬜ |
+| PySpark Started | ✅ |
 | Azure Databricks | ⬜ |
 | SQL | ⬜ |
 | Data Visualization | ⬜ |
@@ -274,12 +209,12 @@ Build **Project 03 – Retail ETL Pipeline** demonstrating distributed data proc
 
 | Metric | Value |
 |---|---:|
-| Learning Sessions | **20** |
+| Learning Sessions | **21** |
 | Portfolio Projects | **2** |
 | Completed Phases | **3** |
+| Current Phase | **PySpark** |
 | Technologies Planned | **8** |
 | GitHub Commits | Growing Daily 🚀 |
-| Current Learning Streak | **20 Days** |
 
 ---
 
@@ -290,69 +225,69 @@ Build **Project 03 – Retail ETL Pipeline** demonstrating distributed data proc
 | Python | **9.0 / 10** |
 | NumPy | **9.0 / 10** |
 | Pandas | **9.5 / 10** |
-| PySpark | — |
-
----
-
-# 💡 Learning Principles
-
-- Understand concepts before memorizing syntax.
-- Build portfolio-quality projects.
-- Solve realistic business problems.
-- Document every learning milestone.
-- Prefer clean, readable, and efficient code.
-- Connect concepts across Python, Pandas, PySpark, SQL, and Machine Learning.
-- Continuously revise and improve previous work.
+| PySpark | **In Progress** |
 
 ---
 
 # 🚀 Next Milestone
 
-Begin **Phase 4 – PySpark Fundamentals** and prepare for **Project 03 – Retail ETL Pipeline**, where the business analytics workflow built in Pandas will be scaled to distributed data processing using Apache Spark.
+Complete the PySpark Fundamentals phase and build **Project 03 – Retail ETL Pipeline**, demonstrating scalable data processing using Apache Spark.
 
 ---
 
 # 📅 Latest Progress
 
-## ✅ Day 20 — Pandas Portfolio Project
+## ✅ Day 21 – PySpark Foundations & Environment Setup
 
-**Date:** **July 30, 2026**
+**Date:** **August 1, 2026**
 
-### Project Completed
+### Topics Covered
 
-🏆 **Business Sales Analytics using Pandas**
-
----
-
-### Summary
-
-Successfully completed the second portfolio project of **Project Atlas**, applying the complete Pandas workflow on a real-world retail dataset—from data cleaning and feature engineering to KPI generation, business analysis, and executive reporting.
-
----
-
-### Highlights
-
-- ✅ Cleaned and validated the dataset
-- ✅ Engineered business metrics
-- ✅ Calculated KPIs
-- ✅ Performed category, regional, customer, shipping, and discount analysis
-- ✅ Generated executive business insights
-- ✅ Completed Mini, Bonus, and Analyst Challenges
-- ✅ Produced portfolio-ready documentation
+- Apache Spark Overview
+- What is PySpark?
+- Pandas vs PySpark (High-Level)
+- Java 17 Configuration
+- `JAVA_HOME` Setup
+- Virtual Environment Creation
+- PySpark Installation
+- Jupyter Kernel Configuration
+- First SparkSession
+- First Spark DataFrame
 
 ---
 
-### Milestones Achieved
+### Practice Completed
 
-- ✅ Completed **Phase 3 – Pandas**
-- ✅ Completed **Portfolio Project 02**
-- ✅ Completed **20 Learning Sessions**
-- ✅ Expanded Project Atlas with a second portfolio-quality project
+✅ Configured Local PySpark Environment
+
+✅ Created First SparkSession
+
+✅ Created First Spark DataFrame
+
+✅ Verified PySpark Installation
 
 ---
 
-### Next Phase
+### Key Achievements
 
-🚀 **PySpark Fundamentals**
+- Successfully configured a reusable local PySpark development environment.
+- Connected VS Code notebooks to the project virtual environment.
+- Resolved Java, environment variable, PowerShell, and Jupyter kernel configuration issues.
+- Established the foundation required for future PySpark and Azure Databricks development.
 
-The next stage focuses on learning distributed data processing with Apache Spark before building **Project 03 – Retail ETL Pipeline**.
+---
+
+### Current Status
+
+🟢 Local PySpark environment is fully operational and ready for hands-on distributed data processing.
+
+---
+
+### Focus for Day 22
+
+- Spark Architecture
+- Driver & Executors
+- SparkSession Deep Dive
+- Spark DataFrames
+- Reading CSV Files
+- Basic DataFrame Operations

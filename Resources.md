@@ -113,6 +113,31 @@ Resources are organized by technology to make revision and future learning easie
 
 ---
 
+## Apache Spark
+
+### Official Documentation
+
+- Apache Spark Documentation
+- PySpark API Reference
+
+### Topics
+
+- Spark Architecture
+- SparkSession
+- DataFrames
+- Spark SQL
+- Transformations
+- Actions
+- Window Functions
+
+### Future Topics
+
+- Delta Lake
+- Structured Streaming
+- Performance Tuning
+
+---
+
 # ☁️ Azure Databricks
 
 ## Official Documentation

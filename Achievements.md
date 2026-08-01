@@ -1,48 +1,64 @@
 # 🏆 Achievements
 
-> A collection of major milestones achieved throughout my Project Atlas learning journey.
+> A record of major milestones accomplished throughout Project Atlas.
 
 ---
 
 # 🎯 Purpose
 
-This document tracks the most significant accomplishments completed during Project Atlas.
-
-Unlike `Progress.md`, which records ongoing work, this file highlights major milestones that demonstrate long-term growth.
+Unlike `Progress.md`, which tracks daily work, this document highlights the major accomplishments that represent significant progress throughout the learning journey.
 
 ---
 
 # 🥇 Learning Milestones
 
 | Milestone | Status |
-|-----------|:------:|
+|---|:---:|
 | Python Fundamentals Completed | ✅ |
 | NumPy Phase Completed | ✅ |
 | Pandas Phase Completed | ✅ |
-| PySpark Phase | ⬜ |
-| Azure Databricks Phase | ⬜ |
-| SQL Phase | ⬜ |
-| Data Visualization Phase | ⬜ |
-| Machine Learning Phase | ⬜ |
+| PySpark Learning Started | ✅ |
+| Azure Databricks | ⬜ |
+| SQL | ⬜ |
+| Data Visualization | ⬜ |
+| Machine Learning | ⬜ |
 
 ---
 
-# 📂 Portfolio Projects
+# 🏆 Portfolio Projects
 
-## 🥇 Portfolio Project 01
-
-### Retail Store Sales Analytics
+## 🥇 Project 01 — Retail Store Sales Analytics
 
 **Technology**
 
-- NumPy
+NumPy
 
-**Achievements**
+### Achievements
 
-- Built the first end-to-end analytics project.
-- Applied vectorized NumPy operations.
-- Used statistical functions for business analysis.
+- Built the first portfolio-quality analytics project.
+- Applied vectorized numerical computation.
+- Performed statistical business analysis.
 - Generated business insights from retail sales data.
+- Created complete project documentation.
+
+**Status**
+
+✅ Completed
+
+---
+
+## 🥈 Project 02 — Business Sales Analytics
+
+**Technology**
+
+Pandas
+
+### Achievements
+
+- Cleaned and validated a real-world dataset.
+- Engineered business metrics and KPIs.
+- Performed customer, category, regional, shipping, and discount analysis.
+- Generated executive business insights.
 - Produced professional project documentation.
 
 **Status**
@@ -51,145 +67,122 @@ Unlike `Progress.md`, which records ongoing work, this file highlights major mil
 
 ---
 
-## 🥈 Portfolio Project 02
+## 🥉 Phase 4 Milestone — PySpark Environment Setup
 
-### Business Sales Analytics
+### Achievements
 
-**Technology**
-
-- Pandas
-
-**Achievements**
-
-- Performed complete data cleaning and preprocessing.
-- Engineered business features.
-- Built executive-level KPIs.
-- Conducted customer, category, regional, and shipping analysis.
-- Generated business recommendations.
-- Created professional project documentation.
+- Installed Java 17
+- Configured JAVA_HOME
+- Created Project Atlas virtual environment
+- Installed PySpark
+- Configured Jupyter kernel
+- Created first SparkSession
+- Created first Spark DataFrame
+- Successfully verified the complete local PySpark environment
 
 **Status**
 
-✅ Completed
+🟢 Completed
 
 ---
 
-## 🥉 Upcoming Projects
+# 🚀 Upcoming Portfolio Projects
 
 | Project | Status |
-|---------|:------:|
-| Retail ETL Pipeline | ⬜ |
-| Azure Retail Analytics | ⬜ |
-| SQL Business Intelligence | ⬜ |
-| Data Visualization Dashboard | ⬜ |
-| Machine Learning Capstone | ⬜ |
+|---|:---:|
+| Project 03 – Retail ETL Pipeline | ⬜ |
+| Project 04 – Azure Retail Analytics | ⬜ |
+| Project 05 – SQL Business Intelligence | ⬜ |
+| Project 06 – Business Dashboard | ⬜ |
+| Project 07 – Machine Learning Capstone | ⬜ |
 
 ---
 
-# 📚 Technologies Mastered
+# 🧠 Technical Skills Acquired
 
 ## Python
 
-✅ Functions
-
-✅ Lambda Functions
-
-✅ List Comprehensions
+- ✅ Functions
+- ✅ Lambda Functions
+- ✅ List Comprehensions
 
 ---
 
 ## NumPy
 
-✅ Arrays
-
-✅ Indexing
-
-✅ Slicing
-
-✅ Broadcasting
-
-✅ Boolean Masking
-
-✅ Fancy Indexing
-
-✅ Vectorization
-
-✅ Statistical Analysis
+- ✅ Arrays
+- ✅ Broadcasting
+- ✅ Boolean Masking
+- ✅ Vectorization
+- ✅ Aggregation
+- ✅ Statistical Analysis
 
 ---
 
 ## Pandas
 
-✅ Series
+- ✅ Data Cleaning
+- ✅ Feature Engineering
+- ✅ GroupBy
+- ✅ Merge & Concat
+- ✅ Pivot Tables
+- ✅ Crosstab
+- ✅ Time Series
+- ✅ Ranking
+- ✅ query()
+- ✅ eval()
+- ✅ Business Analytics
 
-✅ DataFrames
+---
 
-✅ Data Cleaning
+## PySpark
 
-✅ Missing Values
-
-✅ GroupBy
-
-✅ Aggregation
-
-✅ Merge
-
-✅ Concat
-
-✅ Pivot Tables
-
-✅ Crosstab
-
-✅ Feature Engineering
-
-✅ Ranking
-
-✅ Query
-
-✅ Eval
-
-✅ Business KPI Creation
-
-✅ Executive Analytics
+- ✅ Local Environment Setup
+- ✅ SparkSession
+- ✅ First Spark DataFrame
+- 🟡 Spark Fundamentals (In Progress)
 
 ---
 
 # 💻 Development Tools
 
-Successfully used throughout the learning journey:
+Successfully configured and used:
 
 - Git
 - GitHub
 - VS Code
 - Jupyter Notebook
+- Python Virtual Environments
+- Apache Spark
+- Java Development Kit (JDK 17)
 
 ---
 
 # 📈 Repository Statistics
 
 | Metric | Value |
-|--------|------:|
-| Learning Sessions Completed | **20** |
-| Completed Portfolio Projects | **2** |
+|---|---:|
+| Learning Sessions | **21** |
+| Portfolio Projects | **2** |
 | Completed Learning Phases | **3** |
-| Current Phase | **PySpark Fundamentals** |
+| Current Phase | **PySpark** |
 
 ---
 
 # 🌟 Highlights
 
-- Completed three learning phases.
-- Built two portfolio-quality analytics projects.
-- Solved real-world business analysis problems.
-- Documented every project professionally.
-- Established a strong foundation for distributed data engineering.
+- Completed three major learning phases.
+- Built two portfolio-ready analytics projects.
+- Established a professional documentation system.
+- Successfully configured a complete local PySpark development environment.
+- Began the Data Engineering phase of Project Atlas.
 
 ---
 
 # 🚀 Next Achievement
 
-🏆 Complete **Phase 4 – PySpark Fundamentals** and build **Project 03 – Retail ETL Pipeline**, introducing distributed data processing and scalable ETL workflows into Project Atlas.
+Complete **PySpark Fundamentals** and build **Project 03 – Retail ETL Pipeline**, introducing scalable distributed data processing into Project Atlas.
 
 ---
 
-> *"Great achievements are built one milestone at a time."*
+> *"Every completed milestone becomes the foundation for the next level of engineering."*

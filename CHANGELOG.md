@@ -6,6 +6,28 @@ This repository follows a milestone-based changelog, highlighting significant ad
 
 ---
 
+# Version 2.3.0
+
+## August 1, 2026
+
+### Added
+
+- Started Phase 4 – PySpark
+- Created 04_PySpark module
+- Added SETUP.md
+- Configured Java 17
+- Configured JAVA_HOME
+- Installed PySpark
+- Registered Jupyter kernel
+- Created first SparkSession
+- Created first Spark DataFrame
+
+### Changed
+
+- Updated repository roadmap
+- Updated learning progress
+- Updated achievements
+
 # 🚀 Version 2.0.0 (Current)
 
 ## 🎉 Major Repository Refresh

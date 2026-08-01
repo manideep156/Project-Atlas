@@ -148,24 +148,25 @@ Analyze and manipulate real-world datasets.
 
 ---
 
-# ⚡ Phase 4 — PySpark
+## ⚡ Phase 4 — PySpark
 
-### Objective
+### Status
 
-Learn distributed data processing for large-scale datasets.
+🟡 In Progress
 
-### Topics
+### Completed
 
-- Spark Architecture
-- SparkSession
-- DataFrames
-- RDD Fundamentals
+- ✅ Environment Setup
+
+### Upcoming
+
+- Spark Fundamentals
+- Spark DataFrames
 - Transformations
-- Actions
 - Aggregations
 - Window Functions
 - Spark SQL
-- Performance Optimization
+- ETL Pipeline Project
 
 ### Portfolio Project
 

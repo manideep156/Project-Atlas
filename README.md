@@ -1,49 +1,35 @@
 # 🚀 Project Atlas
 
-> **A structured, portfolio-driven learning journey covering Python, Data Analytics, Data Engineering, Machine Learning, and Artificial Intelligence.**
+> **A structured, portfolio-driven journey through Python, Data Analytics, Data Engineering, Machine Learning, and Artificial Intelligence.**
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-success)
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Learning](https://img.shields.io/badge/Learning-Continuous-orange)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![PySpark](https://img.shields.io/badge/PySpark-Learning-orange)
 
 ---
 
 # 📖 About Project Atlas
 
-Project Atlas is my long-term technical learning repository designed to build strong foundations in modern data technologies while creating a portfolio of real-world projects.
+Project Atlas is my long-term technical learning repository designed to build practical expertise across the modern data ecosystem.
 
-Instead of simply learning syntax, this repository emphasizes:
+Rather than focusing solely on syntax, this repository emphasizes understanding concepts deeply, solving realistic business problems, building portfolio-quality projects, and documenting every stage of the learning journey.
 
-- Understanding concepts deeply
-- Solving practical business problems
-- Building production-style portfolio projects
-- Writing clean, maintainable code
-- Documenting every milestone professionally
-
-The objective is to progressively develop expertise across:
-
-- Python
-- Data Analysis
-- Data Engineering
-- Machine Learning
-- Artificial Intelligence
-
-Every phase builds upon the previous one, ensuring that each technology is learned in the proper sequence.
+Each phase builds upon the previous one to develop a strong foundation before progressing into larger-scale data engineering and machine learning workflows.
 
 ---
 
-# 🎯 Repository Objectives
+# 🎯 Objectives
 
-This repository focuses on:
+Project Atlas is designed to:
 
-- Strengthening Python fundamentals
-- Mastering NumPy for numerical computing
-- Performing business analytics with Pandas
-- Learning distributed computing using PySpark
-- Building scalable data pipelines in Azure Databricks
-- Writing efficient SQL queries
-- Creating insightful visualizations
-- Applying Machine Learning to real-world datasets
+- Build strong Python fundamentals
+- Master data analysis using NumPy and Pandas
+- Learn distributed data processing using PySpark
+- Develop scalable ETL pipelines with Azure Databricks
+- Strengthen SQL skills for analytical workloads
+- Build professional data visualizations
+- Apply Machine Learning to real-world business problems
+- Create production-quality portfolio projects
 
 ---
 
@@ -54,7 +40,7 @@ This repository focuses on:
 | Phase 1 | Python Fundamentals | ✅ |
 | Phase 2 | NumPy | ✅ |
 | Phase 3 | Pandas | ✅ |
-| Phase 4 | PySpark | ⬜ |
+| Phase 4 | PySpark | 🟡 |
 | Phase 5 | Azure Databricks | ⬜ |
 | Phase 6 | SQL | ⬜ |
 | Phase 7 | Matplotlib & Seaborn | ⬜ |
@@ -64,14 +50,14 @@ This repository focuses on:
 
 # 📁 Repository Structure
 
-```
+```text
 Project-Atlas/
 │
 ├── README.md
 ├── Progress.md
+├── Roadmap.md
 ├── Achievements.md
 ├── CHANGELOG.md
-├── Roadmap.md
 ├── Resources.md
 │
 ├── 01_Python/
@@ -99,44 +85,44 @@ Project-Atlas/
 # 🏆 Portfolio Projects
 
 | Project | Technology | Status |
-|----------|------------|:------:|
-| Retail Store Sales Analytics | NumPy | ✅ |
-| Business Sales Analytics | Pandas | ✅ |
-| Retail ETL Pipeline | PySpark | ⬜ |
-| Azure Retail Analytics | Azure Databricks | ⬜ |
-| SQL Business Intelligence | SQL | ⬜ |
-| Data Visualization Dashboard | Matplotlib & Seaborn | ⬜ |
-| Machine Learning Capstone | Scikit-Learn | ⬜ |
+|---|---|:---:|
+| Project 01 – Retail Store Sales Analytics | NumPy | ✅ |
+| Project 02 – Business Sales Analytics | Pandas | ✅ |
+| Project 03 – Retail ETL Pipeline | PySpark | ⬜ |
+| Project 04 – Azure Retail Analytics | Azure Databricks | ⬜ |
+| Project 05 – SQL Business Intelligence | SQL | ⬜ |
+| Project 06 – Business Dashboard | Matplotlib & Seaborn | ⬜ |
+| Project 07 – Machine Learning Capstone | Scikit-Learn | ⬜ |
 
 ---
 
-# 🛠️ Technologies Covered
+# 🛠️ Technology Stack
 
-## Programming
+### Programming
 
 - Python
 
-## Data Analysis
+### Data Analysis
 
 - NumPy
 - Pandas
 
-## Data Engineering
+### Data Engineering
 
-- PySpark
+- Apache Spark (PySpark)
 - Azure Databricks
 - SQL
 
-## Data Visualization
+### Data Visualization
 
 - Matplotlib
 - Seaborn
 
-## Machine Learning
+### Machine Learning
 
 - Scikit-Learn
 
-## Development Tools
+### Development Tools
 
 - Git
 - GitHub
@@ -148,90 +134,88 @@ Project-Atlas/
 # 📊 Current Progress
 
 | Metric | Status |
-|----------|---------|
-| Learning Sessions Completed | **20** |
+|---|---|
+| Learning Sessions | **21** |
 | Portfolio Projects | **2** |
 | Completed Phases | **3 / 8** |
-| Current Focus | **PySpark Fundamentals** |
+| Current Phase | **PySpark** |
+| Current Focus | **Spark Fundamentals & DataFrames** |
 
-For detailed progress, see **Progress.md**.
+For detailed daily progress, refer to **Progress.md**.
 
 ---
 
 # 💡 Learning Philosophy
 
-Project Atlas follows a practical, project-first approach.
+Project Atlas follows a practical, project-first learning approach.
 
-Each phase consists of:
+Every phase includes:
 
-- Learning core concepts
-- Hands-on coding exercises
+- Conceptual understanding
+- Hands-on coding
 - Mini challenges
-- Business-oriented problem solving
-- Portfolio project
-- Documentation and reflection
+- Business-oriented exercises
+- Portfolio projects
+- Documentation & reflection
 
-The emphasis is on applying knowledge rather than memorizing syntax.
+The goal is to build skills that translate directly into real-world engineering work.
 
 ---
 
-# ⭐ Repository Highlights
+# 🌟 Repository Highlights
 
-- Structured learning roadmap
-- Portfolio-first approach
-- Business-focused projects
+- Portfolio-first learning approach
+- Business-focused analytics projects
+- Progressive roadmap from Python to Machine Learning
+- Enterprise-oriented Data Engineering track
 - Professional documentation
-- Incremental skill development
-- Real-world datasets
 - Continuous progress tracking
+- Real-world datasets and projects
 
 ---
 
-# 📚 Documentation
+# 📚 Repository Documentation
 
-| File | Description |
-|------|-------------|
+| File | Purpose |
+|---|---|
 | README.md | Repository overview |
-| Progress.md | Current learning progress |
+| Progress.md | Daily learning progress |
 | Roadmap.md | Complete learning roadmap |
 | Achievements.md | Major milestones |
-| CHANGELOG.md | Repository update history |
-| Resources.md | Learning references |
+| CHANGELOG.md | Repository evolution |
+| Resources.md | Learning resources & references |
 
 ---
 
 # 🚀 Current Focus
 
-I am currently working on **Phase 4 – PySpark**, learning distributed data processing and preparing to build **Project 03 – Retail ETL Pipeline**.
+Currently learning **Apache Spark (PySpark)** and preparing to build **Project 03 – Retail ETL Pipeline**.
 
 Upcoming topics include:
 
-- Apache Spark Architecture
+- Spark Architecture
+- SparkSession
 - Spark DataFrames
 - Transformations
 - Aggregations
 - Spark SQL
 - Window Functions
-- Distributed ETL Pipelines
+- ETL Pipelines
 
 ---
 
-# 📈 Long-Term Goal
+# 🎯 Long-Term Vision
 
-The objective of Project Atlas is to develop strong practical expertise across the modern data ecosystem by building progressively complex projects that demonstrate skills in:
+Project Atlas is intended to evolve into a comprehensive engineering portfolio demonstrating practical expertise across:
 
 - Data Analysis
 - Data Engineering
+- Business Intelligence
 - Machine Learning
 - Artificial Intelligence
 
-The repository will evolve into a comprehensive portfolio showcasing both technical knowledge and practical problem-solving ability.
+Each completed project represents another milestone toward becoming a well-rounded Data Engineer and Machine Learning Engineer.
 
 ---
 
-## ⭐ If you find this repository useful, consider giving it a star!
-
-```
-Learning never stops.
-Build. Document. Improve. Repeat.
-```
+## ⭐ "Learn deeply. Build consistently. Document professionally."
