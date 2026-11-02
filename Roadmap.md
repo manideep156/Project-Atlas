@@ -1,363 +1,556 @@
-# 🗺️ Project Atlas Roadmap
+**# 🚀 Project Atlas – Learning Roadmap**
 
-> A structured roadmap outlining the technologies, projects, and milestones planned throughout Project Atlas.
+> A structured six-month learning journey focused on building practical expertise in Data Analytics, Data Engineering, Cloud Data Platforms, Machine Learning, and Applied AI.
 
 ---
 
-# 🎯 Vision
+**# 🎯 1. Project Vision**
 
-Project Atlas is designed as a long-term, portfolio-driven learning journey that progressively builds expertise in:
+The objective of Project Atlas is to develop the technical skills required to transition toward a Data + AI Engineering role.
+
+The roadmap combines foundational programming, scalable data processing, cloud technologies, analytical skills, and applied machine learning.
+
+**## Target Skill Profile**
 
 - Python Programming
-- Data Analysis
-- Data Engineering
+- Data Manipulation and Analysis
+- NumPy and Pandas
+- Apache Spark and PySpark
+- Azure Databricks
+- SQL and Data Warehousing
+- Data Visualization
 - Machine Learning
-- Artificial Intelligence
+- Applied AI and RAG
 
-Each phase builds upon the previous one, ensuring strong fundamentals before moving into advanced topics.
+**## Learning Priority**
 
----
+| Focus Area | Allocation |
+|---|---:|
+| Data Engineering & Job-Relevant Skills | 60% |
+| Machine Learning & Applied AI | 30% |
+| Interview Preparation | 10% |
 
-# 🚀 Learning Journey
-
-```text
-Python
-    │
-    ▼
-NumPy
-    │
-    ▼
-Pandas
-    │
-    ▼
-PySpark
-    │
-    ▼
-Azure Databricks
-    │
-    ▼
-SQL
-    │
-    ▼
-Data Visualization
-    │
-    ▼
-Machine Learning
-```
+**Target Study Time:** Approximately 2–3 hours per day.
 
 ---
 
-# 📚 Phase 1 — Python Fundamentals
+**# 🗺️ 2. Learning Journey**
 
-### Objective
+Python Fundamentals → NumPy → Pandas → PySpark → Azure Databricks → SQL → Data Visualization → Machine Learning → Applied AI
 
-Build a strong foundation in Python programming.
+---
 
-### Topics
+**# 🐍 Phase 1 – Python Fundamentals**
 
-- Variables
-- Data Types
-- Operators
-- Control Flow
+**Status:** ✅ Completed
+
+**Objective:** Build a strong Python foundation for data analysis and engineering.
+
+**Topics Covered**
+
+- Python Fundamentals
+- Variables and Data Types
+- Conditional Statements
+- Loops
 - Functions
 - Lambda Functions
 - List Comprehensions
-- Modules
-- Exception Handling
+- Data Structures
+- Basic Problem Solving
 
-### Outcome
+**Outcome**
 
-Develop confidence in writing clean and reusable Python code.
-
-### Status
-
-✅ Completed
+Established the Python programming foundation required for data manipulation, automation, and PySpark development.
 
 ---
 
-# 🔢 Phase 2 — NumPy
+**# 🔢 Phase 2 – NumPy**
 
-### Objective
+**Status:** ✅ Completed
 
-Learn efficient numerical computing and vectorized operations.
+**Objective:** Understand numerical computing and efficient array-based operations.
 
-### Topics
+**Topics Covered**
 
-- Arrays
-- Indexing
-- Slicing
+- NumPy Arrays
+- Array Creation
+- Array Indexing and Slicing
+- Array Reshaping
 - Broadcasting
-- Aggregation
-- Statistical Functions
-- Boolean Masking
 - Vectorization
+- Boolean Masking
+- Statistical Operations
+- Random Number Generation
+- Mathematical Operations
 
-### Portfolio Project
+**🏆 Portfolio Project 01 – Retail Store Sales Analytics**
 
-🏆 Retail Store Sales Analytics
+**Technology:** NumPy
 
-### Skills Gained
+**Project Focus**
 
-- Numerical Computing
-- Array Manipulation
-- Business Analytics using NumPy
+- Numerical data processing.
+- Sales calculations.
+- Statistical analysis.
+- Product and revenue analysis.
+- Array-based business calculations.
 
-### Status
+**Outcome**
 
-✅ Completed
+Developed practical numerical computing skills and completed the first portfolio project.
 
 ---
 
-# 🐼 Phase 3 — Pandas
+**# 🐼 Phase 3 – Pandas**
 
-### Objective
+**Status:** ✅ Completed
 
-Analyze and manipulate real-world datasets.
+**Objective:** Develop practical data cleaning, manipulation, and business analytics skills.
 
-### Topics
+**Topics Covered**
 
-- DataFrames
-- Series
+- Series and DataFrames
+- Data Loading
+- Data Inspection
 - Data Cleaning
-- Missing Values
-- GroupBy
-- Aggregation
-- Merge
-- Concat
+- Missing Value Handling
+- Feature Engineering
+- GroupBy and Aggregation
+- Merge and Concat
 - Pivot Tables
 - Crosstab
-- Ranking
 - Time Series
-- Feature Engineering
+- Ranking
+- `query()`
+- `eval()`
+- Business Analytics
 
-### Portfolio Project
+**🏆 Portfolio Project 02 – Business Sales Analytics**
 
-🏆 Business Sales Analytics
+**Technology:** Pandas
 
-### Skills Gained
+**Project Focus**
 
-- Data Cleaning
-- Business KPI Generation
-- Exploratory Data Analysis
-- Executive Reporting
-- Business Insights
+- Business data exploration.
+- Data cleaning.
+- Sales analysis.
+- Aggregation and grouping.
+- Business performance analysis.
+- Analytical insights.
 
-### Status
+**Outcome**
 
-✅ Completed
+Completed a practical business analytics project using Pandas.
 
 ---
 
-## ⚡ Phase 4 — PySpark
+**# ⚡ Phase 4 – PySpark**
 
-### Status
+**Status:** 🟡 In Progress
 
-🟡 In Progress
+**Objective:** Develop scalable data-processing skills using Apache Spark and PySpark.
 
-### Completed
+**## Module 1 – Environment Setup**
 
-- ✅ Environment Setup
+**Status:** ✅ Completed
 
-### Upcoming
+- Python Environment
+- Java 17 Configuration
+- `JAVA_HOME` Setup
+- Virtual Environment
+- PySpark Installation
+- Jupyter Kernel Configuration
+- VS Code Integration
+- Initial SparkSession Verification
 
-- Spark Fundamentals
+**## Module 2 – Spark Architecture & Fundamentals**
+
+**Status:** ✅ Completed
+
+- Apache Spark Overview
+- Spark vs PySpark
+- Driver
+- Executors
+- Cluster Manager
+- Partitions
+- Local Execution
+- SparkSession
 - Spark DataFrames
-- Transformations
-- Aggregations
-- Window Functions
-- Spark SQL
-- ETL Pipeline Project
+- Schema Inspection
+- Transformations and Actions
+- Lazy Evaluation
 
-### Portfolio Project
+**## Module 3 – DataFrame Transformations**
 
-🏆 Retail ETL Pipeline
+**Status:** ⬜ Upcoming
 
-### Skills Gained
+- `withColumn()`
+- `withColumnRenamed()`
+- `drop()`
+- `when()` and `otherwise()`
+- Column Expressions
+- Null Handling
+- Chaining Transformations
+- Data Type Conversion
+- String and Date Transformations
 
-- Distributed Computing
-- Large Dataset Processing
-- ETL Development
-- Scalable Data Engineering
+**## Module 4 – Aggregations**
 
-### Status
+**Status:** ⬜ Upcoming
 
-⬜ Planned
+- `groupBy()`
+- `agg()`
+- `sum()`
+- `avg()`
+- `count()`
+- `min()` and `max()`
+- Multiple Aggregations
+- Business-Level Aggregations
+
+**## Module 5 – Joins**
+
+**Status:** ⬜ Upcoming
+
+- Inner Join
+- Left Join
+- Right Join
+- Full Outer Join
+- Cross Join
+- Self Join
+- Join Conditions
+- Handling Duplicate Columns
+- Join Performance Considerations
+
+**## Module 6 – Window Functions**
+
+**Status:** ⬜ Upcoming
+
+- Window Specification
+- Partitioning
+- Ordering
+- `row_number()`
+- `rank()`
+- `dense_rank()`
+- `lag()` and `lead()`
+- Running Totals
+- Moving Averages
+
+**## Module 7 – Spark SQL**
+
+**Status:** ⬜ Upcoming
+
+- Temporary Views
+- Global Temporary Views
+- SQL Queries
+- Filtering and Aggregation
+- Joins Using SQL
+- Window Functions Using SQL
+- DataFrame API vs Spark SQL
+
+**## Module 8 – Reading and Writing Data**
+
+**Status:** ⬜ Upcoming
+
+- CSV
+- JSON
+- Parquet
+- Reading Data
+- Writing Data
+- File Modes
+- Schema Inference
+- Explicit Schema Definition
+- Partitioned Writes
+
+**## Module 9 – Performance and Optimization**
+
+**Status:** ⬜ Upcoming
+
+- Narrow and Wide Transformations
+- Shuffle Operations
+- Caching and Persistence
+- Repartitioning
+- Coalesce
+- Broadcast Joins
+- Execution Plans
+- Basic Performance Optimization
+
+**## 🏆 Portfolio Project 03 – Retail ETL Pipeline**
+
+**Technology:** PySpark
+
+**Objective:** Build a practical ETL pipeline that processes retail transaction data.
+
+**Planned Features**
+
+- Read raw retail datasets.
+- Inspect and validate schemas.
+- Clean inconsistent records.
+- Handle null values.
+- Perform transformations.
+- Join related datasets.
+- Aggregate business metrics.
+- Generate analytical outputs.
+- Write processed data to storage.
+
+**Expected Outcome**
+
+A reusable PySpark ETL pipeline demonstrating scalable data processing and practical data engineering concepts.
 
 ---
 
-# ☁️ Phase 5 — Azure Databricks
+**# ☁️ Phase 5 – Azure Databricks**
 
-### Objective
+**Status:** ⬜ Not Started
 
-Build cloud-based data engineering workflows.
+**Objective:** Learn how to develop, manage, and execute data engineering workloads using Azure Databricks.
 
-### Topics
+**## Module 1 – Databricks Fundamentals**
 
-- Databricks Workspace
-- Compute Clusters
-- Delta Lake
-- Jobs
-- Pipelines
+- Azure Databricks Overview
+- Workspace
+- Notebooks
+- Compute Resources
+- Clusters
+- Runtime Concepts
+- Databricks Architecture
+
+**## Module 2 – Spark Development in Databricks**
+
+- PySpark Notebooks
+- DataFrame Operations
+- Data Ingestion
+- Data Transformation
+- SQL Integration
+
+**## Module 3 – Delta Lake**
+
+- Delta Tables
+- ACID Transactions
+- Schema Enforcement
+- Schema Evolution
+- Time Travel
+- MERGE Operations
+- Upserts
+
+**## Module 4 – Medallion Architecture**
+
+- Bronze Layer – Raw Data
+- Silver Layer – Cleaned and Validated Data
+- Gold Layer – Business-Ready Data
+- Data Quality
+- Incremental Processing
+
+**## Module 5 – Workflows and Pipelines**
+
+- Databricks Jobs
+- Workflow Scheduling
+- Pipeline Dependencies
+- Parameterization
+- Monitoring
+- Logging
+- Error Handling
+
+**## Module 6 – Governance**
+
 - Unity Catalog
-- Workflow Automation
+- Catalogs
+- Schemas
+- Tables
+- Access Control
+- Data Lineage
 
-### Portfolio Project
+**## 🏆 Portfolio Project 04 – Azure Retail Analytics**
 
-🏆 Azure Retail Analytics
+**Technology:** Azure Databricks, PySpark, Delta Lake
 
-### Skills Gained
+**Objective:** Extend the Retail ETL Pipeline into a cloud-based data engineering solution.
 
-- Cloud Data Engineering
-- Delta Lake
-- Production Data Pipelines
+**Planned Architecture**
 
-### Status
+Raw Data → Bronze → Silver → Gold → Analytics
 
-⬜ Planned
+**Expected Outcome**
+
+Demonstrate practical knowledge of cloud-based data engineering, Delta Lake, medallion architecture, and managed data pipelines.
 
 ---
 
-# 🗄️ Phase 6 — SQL
+**# 🗄️ Phase 6 – SQL**
 
-### Objective
+**Status:** ⬜ Not Started
 
-Develop strong querying and relational database skills.
+**Objective:** Strengthen relational database querying and analytical SQL skills.
 
-### Topics
+**Topics**
 
 - SQL Fundamentals
+- SELECT and WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
 - Joins
 - Subqueries
+- Common Table Expressions
 - Window Functions
-- CTEs
-- Views
-- Stored Procedures
+- CASE Expressions
+- Date and String Functions
 - Query Optimization
+- Analytical SQL
 
-### Portfolio Project
+**🏆 Portfolio Project 05 – SQL Business Intelligence**
 
-🏆 SQL Business Intelligence
+**Technology:** SQL
 
-### Skills Gained
-
-- Relational Databases
-- Business Reporting
-- Advanced SQL
-
-### Status
-
-⬜ Planned
+**Objective:** Solve business reporting and analytical problems using SQL.
 
 ---
 
-# 📊 Phase 7 — Data Visualization
+**# 📊 Phase 7 – Data Visualization**
 
-### Objective
+**Status:** ⬜ Not Started
 
-Present analytical findings through effective visualizations.
+**Objective:** Communicate analytical findings through meaningful visualizations.
 
-### Technologies
+**Topics**
 
 - Matplotlib
 - Seaborn
-
-### Topics
-
 - Line Charts
 - Bar Charts
 - Histograms
 - Scatter Plots
+- Box Plots
 - Heatmaps
-- Dashboard Design
+- Correlation Analysis
+- Chart Selection
+- Data Storytelling
 
-### Portfolio Project
+**🏆 Portfolio Project 06 – Business Dashboard**
 
-🏆 Business Dashboard
+**Technology:** Matplotlib and Seaborn
 
-### Skills Gained
-
-- Storytelling with Data
-- Dashboard Development
-- Visual Analytics
-
-### Status
-
-⬜ Planned
+**Objective:** Build a business-focused analytical dashboard using insights from processed datasets.
 
 ---
 
-# 🤖 Phase 8 — Machine Learning
+**# 🤖 Phase 8 – Machine Learning**
 
-### Objective
+**Status:** ⬜ Not Started
 
-Build predictive models using real-world datasets.
+**Objective:** Develop practical machine learning skills and understand how models are built, evaluated, and deployed.
 
-### Topics
+**## Module 1 – Foundations**
 
-- Data Preparation
-- Feature Engineering
+- Supervised Learning
+- Unsupervised Learning
 - Regression
 - Classification
 - Clustering
-- Model Evaluation
+- Training and Testing Data
+- Feature Engineering
+
+**## Module 2 – Algorithms**
+
+- Linear Regression
+- Logistic Regression
+- Decision Trees
+- Random Forest
+- K-Nearest Neighbors
+- Support Vector Machines
+- K-Means Clustering
+
+**## Module 3 – Model Evaluation**
+
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- Confusion Matrix
+- ROC-AUC
 - Cross Validation
+- Overfitting and Underfitting
+
+**## Module 4 – Practical ML**
+
+- Scikit-Learn Pipelines
+- Preprocessing
+- Feature Selection
 - Hyperparameter Tuning
-
-### Portfolio Project
-
-🏆 Machine Learning Capstone
-
-### Skills Gained
-
-- Predictive Analytics
-- Model Building
+- Model Persistence
 - Model Evaluation
-- End-to-End ML Workflow
 
-### Status
+**🏆 Portfolio Project 07 – Machine Learning Capstone**
 
-⬜ Planned
+**Technology:** Scikit-Learn
 
----
-
-# 🏆 Portfolio Roadmap
-
-| Project | Technology | Status |
-|----------|------------|:------:|
-| Retail Store Sales Analytics | NumPy | ✅ |
-| Business Sales Analytics | Pandas | ✅ |
-| Retail ETL Pipeline | PySpark | ⬜ |
-| Azure Retail Analytics | Azure Databricks | ⬜ |
-| SQL Business Intelligence | SQL | ⬜ |
-| Business Dashboard | Matplotlib & Seaborn | ⬜ |
-| Machine Learning Capstone | Scikit-Learn | ⬜ |
+**Objective:** Build an end-to-end machine learning solution using a real-world dataset.
 
 ---
 
-# 📈 Expected Outcomes
+**# 🧠 9. Applied AI Extension**
 
-By the completion of Project Atlas, I aim to have:
+**Status:** ⬜ Planned
 
-- Strong Python programming skills
-- Practical experience in data analysis
-- Hands-on expertise in data engineering
-- Proficiency in cloud-based data platforms
-- Advanced SQL querying skills
-- Data visualization expertise
-- Machine learning fundamentals
-- A portfolio of production-style projects demonstrating real-world problem-solving skills
+**Project – Document Intelligence Assistant**
+
+**Technology:** Python, LLM APIs, Embeddings, Vector Search, RAG
+
+**Objective:** Build an assistant capable of retrieving and answering questions from document collections.
+
+**Planned Concepts**
+
+- LLM Fundamentals
+- Prompt Engineering
+- Embeddings
+- Vector Databases
+- Retrieval-Augmented Generation
+- Document Chunking
+- Semantic Search
+- Retrieval Evaluation
+- API Integration
+
+This extension will connect data engineering knowledge with practical AI application development.
 
 ---
 
-# 🌟 Guiding Principles
+**# 📅 10. Current Position**
 
-- Learn concepts before tools.
-- Build projects instead of isolated exercises.
-- Document every milestone professionally.
-- Prioritize clean, maintainable code.
-- Focus on practical business applications.
-- Continuously revisit and improve previous work.
+| Metric | Status |
+|---|---|
+| Latest Completed Session | Day 22 |
+| Current Phase | PySpark |
+| Current Topic | Spark Architecture & DataFrame Fundamentals |
+| Completed Portfolio Projects | 2 |
+| Completed Phases | 3 |
+| Next Session | Day 23 |
+| Next Topic | DataFrame Transformations |
+
+**## Next Learning Session – Day 23**
+
+- `withColumn()`
+- `withColumnRenamed()`
+- `drop()`
+- `when()` and `otherwise()`
+- Null Handling
+- Chaining Transformations
 
 ---
 
-> **Project Atlas is not just a learning repository—it is a long-term engineering portfolio documenting continuous growth across the modern data ecosystem.**
+**# 🚀 11. Final Target**
+
+By completing Project Atlas, the objective is to build a practical skill profile covering:
+
+- Python-based data processing.
+- Business analytics and data manipulation.
+- Distributed data processing with PySpark.
+- Cloud data engineering with Azure Databricks.
+- SQL-based analytics.
+- Data visualization.
+- Machine learning.
+- Applied AI and RAG applications.
+
+**Final Goal:** Become capable of designing and developing end-to-end data engineering and AI-driven solutions, supported by practical projects and a demonstrable GitHub portfolio.
+
+---
+
+**🚀 Project Atlas – Learn. Build. Analyze. Engineer.**

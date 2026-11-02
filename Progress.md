@@ -1,36 +1,34 @@
-# 🚀 Project Atlas
+**# 🚀 Project Atlas**
 
 > A structured roadmap documenting my journey from Python Fundamentals to Enterprise Data Analytics, Data Engineering, Machine Learning, and Artificial Intelligence.
 
 ---
 
-# 📊 Current Progress
+**# 📊 Current Progress**
 
 | Metric | Status |
 |---|---|
-| **Learning Sessions Completed** | **21** |
+| **Learning Sessions Completed** | **22** |
 | **Portfolio Projects Completed** | **2** |
 | **Completed Phases** | **Python • NumPy • Pandas** |
 | **Current Phase** | **Phase 4 – PySpark** |
-| **Current Topic** | **PySpark Foundations & Environment Setup** |
+| **Current Topic** | **Spark Architecture & DataFrame Fundamentals** |
 
-### Overall Completion
+**### Overall Completion**
 
-```text
-█████████████████████░░░░░░░░░░░░░░░░░░░░ 35%
-```
+    ██████████████████████░░░░░░░░░░░░░░░░░░ 37%
 
 ---
 
-# 🗺️ Learning Roadmap
+**# 🗺️ Learning Roadmap**
 
-## 🐍 Phase 1 — Python Fundamentals
+**## 🐍 Phase 1 — Python Fundamentals**
 
 **Status:** ✅ Completed
 
 ---
 
-## 🔢 Phase 2 — NumPy
+**## 🔢 Phase 2 — NumPy**
 
 **Status:** ✅ Completed
 
@@ -38,7 +36,7 @@
 
 ---
 
-## 🐼 Phase 3 — Pandas
+**## 🐼 Phase 3 — Pandas**
 
 **Status:** ✅ Completed
 
@@ -46,49 +44,53 @@
 
 ---
 
-## ⚡ Phase 4 — PySpark
+**## ⚡ Phase 4 — PySpark**
 
 | Module | Status |
 |---|:---:|
 | Environment Setup | ✅ |
-| Spark Fundamentals | 🟡 |
-| Spark DataFrames | ⬜ |
-| DataFrame Transformations | ⬜ |
+| Spark Architecture & Fundamentals | ✅ |
+| SparkSession | ✅ |
+| DataFrame Creation & Schema | ✅ |
+| Basic DataFrame Operations | ✅ |
+| Transformations & Actions Fundamentals | ✅ |
+| Advanced DataFrame Transformations | ⬜ |
 | Aggregations | ⬜ |
 | Joins | ⬜ |
 | Window Functions | ⬜ |
 | Spark SQL | ⬜ |
+| Reading & Writing Data | ⬜ |
 | ETL Pipeline Project | ⬜ |
 
 **Phase Status:** 🟡 In Progress
 
 ---
 
-## ☁️ Phase 5 — Azure Databricks
+**## ☁️ Phase 5 — Azure Databricks**
 
 **Status:** ⬜ Not Started
 
 ---
 
-## 🗄️ Phase 6 — SQL
+**## 🗄️ Phase 6 — SQL**
 
 **Status:** ⬜ Not Started
 
 ---
 
-## 📊 Phase 7 — Data Visualization
+**## 📊 Phase 7 — Data Visualization**
 
 **Status:** ⬜ Not Started
 
 ---
 
-## 🤖 Phase 8 — Machine Learning
+**## 🤖 Phase 8 — Machine Learning**
 
 **Status:** ⬜ Not Started
 
 ---
 
-# 🏆 Portfolio Roadmap
+**# 🏆 Portfolio Roadmap**
 
 | Project | Technology | Status |
 |---|---|:---:|
@@ -102,9 +104,9 @@
 
 ---
 
-# 🧠 Skills Completed
+**# 🧠 Skills Completed**
 
-## Python
+**## Python**
 
 ✅ Functions
 
@@ -114,7 +116,7 @@
 
 ---
 
-## NumPy
+**## NumPy**
 
 ✅ Arrays
 
@@ -128,7 +130,7 @@
 
 ---
 
-## Pandas
+**## Pandas**
 
 ✅ Data Cleaning
 
@@ -154,41 +156,54 @@
 
 ---
 
-## PySpark
+**## PySpark**
 
 ✅ Local Environment Setup
 
-🟡 Spark Fundamentals
+✅ Spark Architecture Fundamentals
 
-⬜ Spark DataFrames
+✅ SparkSession
 
-⬜ Transformations
+✅ DataFrame Creation
 
-⬜ Spark SQL
+✅ Schema Inspection
+
+✅ Basic DataFrame Operations
+
+✅ Transformations & Actions Fundamentals
+
+✅ Lazy Evaluation
+
+⬜ Advanced Transformations
+
+⬜ Aggregations
+
+⬜ Joins
 
 ⬜ Window Functions
+
+⬜ Spark SQL
 
 ⬜ ETL Pipelines
 
 ---
 
-# 🎯 Current Focus
+**# 🎯 Current Focus**
 
-## Phase 4 – PySpark
+**## Phase 4 – PySpark**
 
-Current Objectives
+**Current Objectives**
 
-- Understand Apache Spark
-- Understand Spark Architecture
-- Learn SparkSession
-- Create Spark DataFrames
-- Read CSV Files
-- Perform Basic Transformations
-- Compare Pandas vs PySpark
+- Understand Spark DataFrame transformations in depth.
+- Learn how to add, modify, rename, and drop columns.
+- Work with conditional expressions using `when()` and `otherwise()`.
+- Handle missing and null values.
+- Chain multiple DataFrame transformations.
+- Practice with realistic business datasets.
 
 ---
 
-# 📈 Milestones
+**# 📈 Milestones**
 
 | Milestone | Status |
 |---|:---:|
@@ -198,6 +213,9 @@ Current Objectives
 | Pandas Completed | ✅ |
 | Portfolio Project 02 | ✅ |
 | PySpark Started | ✅ |
+| PySpark Environment Setup | ✅ |
+| Spark Architecture Fundamentals | ✅ |
+| Spark DataFrame Fundamentals | ✅ |
 | Azure Databricks | ⬜ |
 | SQL | ⬜ |
 | Data Visualization | ⬜ |
@@ -205,11 +223,11 @@ Current Objectives
 
 ---
 
-# 📚 Repository Statistics
+**# 📚 Repository Statistics**
 
 | Metric | Value |
 |---|---:|
-| Learning Sessions | **21** |
+| Learning Sessions | **22** |
 | Portfolio Projects | **2** |
 | Completed Phases | **3** |
 | Current Phase | **PySpark** |
@@ -218,7 +236,7 @@ Current Objectives
 
 ---
 
-# ⭐ Phase Assessments
+**# ⭐ Phase Assessments**
 
 | Phase | Score |
 |---|:---:|
@@ -229,65 +247,84 @@ Current Objectives
 
 ---
 
-# 🚀 Next Milestone
+**# 🚀 Next Milestone**
 
 Complete the PySpark Fundamentals phase and build **Project 03 – Retail ETL Pipeline**, demonstrating scalable data processing using Apache Spark.
 
 ---
 
-# 📅 Latest Progress
+**# 📅 Latest Progress**
 
-## ✅ Day 21 – PySpark Foundations & Environment Setup
+**## ✅ Day 22 – Spark Architecture & DataFrame Fundamentals**
 
-**Date:** **August 1, 2026**
+**Date:** **November 2, 2026**
 
-### Topics Covered
+**### Topics Covered**
 
-- Apache Spark Overview
-- What is PySpark?
-- Pandas vs PySpark (High-Level)
-- Java 17 Configuration
-- `JAVA_HOME` Setup
-- Virtual Environment Creation
-- PySpark Installation
-- Jupyter Kernel Configuration
-- First SparkSession
-- First Spark DataFrame
-
----
-
-### Practice Completed
-
-✅ Configured Local PySpark Environment
-
-✅ Created First SparkSession
-
-✅ Created First Spark DataFrame
-
-✅ Verified PySpark Installation
-
----
-
-### Key Achievements
-
-- Successfully configured a reusable local PySpark development environment.
-- Connected VS Code notebooks to the project virtual environment.
-- Resolved Java, environment variable, PowerShell, and Jupyter kernel configuration issues.
-- Established the foundation required for future PySpark and Azure Databricks development.
-
----
-
-### Current Status
-
-🟢 Local PySpark environment is fully operational and ready for hands-on distributed data processing.
-
----
-
-### Focus for Day 22
-
-- Spark Architecture
-- Driver & Executors
-- SparkSession Deep Dive
+- Apache Spark Architecture
+- Driver and Executors
+- Cluster Manager
+- Data Partitions
+- Understanding PySpark
+- Local Execution using `local[*]`
+- SparkSession Creation and Configuration
 - Spark DataFrames
-- Reading CSV Files
+- DataFrame Schema and Data Types
 - Basic DataFrame Operations
+- Transformations and Actions
+- Lazy Evaluation
+- Safe Usage of `collect()`
+
+---
+
+**### Practice Completed**
+
+✅ Created and configured a SparkSession.
+
+✅ Created an Employee DataFrame.
+
+✅ Inspected DataFrame schema and data types.
+
+✅ Selected specific DataFrame columns.
+
+✅ Filtered employees based on salary.
+
+✅ Filtered employees by department.
+
+✅ Sorted employees by salary.
+
+✅ Counted DataFrame records.
+
+✅ Completed the Employee Data Analysis Mini Challenge.
+
+---
+
+**### Key Achievements**
+
+- Understood the basic architecture of Apache Spark and the responsibilities of the Driver and Executors.
+- Learned how Spark uses partitions to support parallel data processing.
+- Created and worked with Spark DataFrames.
+- Practiced fundamental DataFrame operations.
+- Understood the difference between transformations and actions.
+- Learned how lazy evaluation allows Spark to optimize execution plans.
+- Understood why collecting large datasets to the Driver should be avoided.
+
+---
+
+**### Current Status**
+
+🟢 Day 22 successfully completed.
+
+All planned learning objectives and practical exercises for today's session have been completed.
+
+---
+
+**### Focus for Day 23**
+
+- `withColumn()`
+- `withColumnRenamed()`
+- `drop()`
+- Conditional columns using `when()` and `otherwise()`
+- Handling null values
+- Chaining DataFrame transformations
+- Practical Employee Data Transformation Challenge

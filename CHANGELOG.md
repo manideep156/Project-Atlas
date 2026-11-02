@@ -1,221 +1,163 @@
-# 📝 CHANGELOG
+**# 📜 Project Atlas – Changelog**
 
-All notable changes to **Project Atlas** are documented in this file.
-
-This repository follows a milestone-based changelog, highlighting significant additions, improvements, and completed learning phases.
+> A chronological record of significant updates, learning milestones, repository improvements, and project additions.
 
 ---
 
-# Version 2.3.0
+**# 🚀 Version 2.4.0 – November 2, 2026**
 
-## August 1, 2026
+**Status:** Released
 
-### Added
+**## Added**
 
-- Started Phase 4 – PySpark
-- Created 04_PySpark module
-- Added SETUP.md
-- Configured Java 17
-- Configured JAVA_HOME
-- Installed PySpark
-- Registered Jupyter kernel
-- Created first SparkSession
-- Created first Spark DataFrame
+- Completed Day 22 – Spark Architecture & DataFrame Fundamentals.
+- Added detailed notes on Apache Spark architecture.
+- Covered Driver, Executors, Cluster Manager, and partitions.
+- Added SparkSession creation and configuration.
+- Introduced Spark DataFrames and schema inspection.
+- Added basic DataFrame operations.
+- Covered transformations, actions, and lazy evaluation.
+- Added Employee Data Analysis Mini Challenge.
+- Added Spark architecture and DataFrame interview questions.
 
-### Changed
+**## Updated**
 
-- Updated repository roadmap
-- Updated learning progress
-- Updated achievements
-
-# 🚀 Version 2.0.0 (Current)
-
-## 🎉 Major Repository Refresh
-
-### Added
-
-- Complete repository restructuring
-- Professional documentation layout
-- Standardized markdown formatting
-- Repository statistics
-- Learning roadmap
-- Achievement tracking
-- Progress tracking
-- Portfolio project documentation
-- Executive project summaries
-- Business insights documentation
-- Future enhancement planning
-
-### Completed
-
-- ✅ Phase 1 – Python Fundamentals
-- ✅ Phase 2 – NumPy
-- ✅ Phase 3 – Pandas
-
-### Portfolio Projects
-
-- ✅ Project 01 – Retail Store Sales Analytics
-- ✅ Project 02 – Business Sales Analytics
-
-### Documentation
-
-Created and improved:
-
-- README.md
-- Progress.md
-- Achievements.md
-- Roadmap.md
-- CHANGELOG.md
-- Resources.md
-
-### Repository Improvements
-
-- Improved folder organization
-- Added professional project structure
-- Standardized documentation style
-- Improved project consistency
-- Added future learning roadmap
+- Updated `Day_22.md` with completed status.
+- Updated `Progress.md` to 22 completed learning sessions.
+- Updated `Roadmap.md` with completed Spark fundamentals.
+- Updated `Achievements.md` with Day 22 accomplishments.
+- Updated the PySpark learning roadmap.
+- Updated the next learning milestone to Day 23.
 
 ---
 
-# 🚀 Version 1.2.0
+**# 🚀 Version 2.3.0 – August 1, 2026**
 
-## Added
+**Status:** Released
 
-### Pandas Portfolio Project
+**## Added**
 
-- Completed Business Sales Analytics project.
-- Added executive summary.
-- Added business insights report.
-- Added project documentation.
-- Added future enhancement ideas.
+- Introduced PySpark as the fourth learning phase.
+- Configured Java 17.
+- Configured `JAVA_HOME`.
+- Created the Project Atlas Python virtual environment.
+- Installed PySpark.
+- Configured Jupyter kernel support.
+- Integrated the PySpark environment with VS Code.
+- Completed initial SparkSession and DataFrame setup.
+- Completed Day 21 – PySpark Foundations & Environment Setup.
 
-### Topics Covered
+**## Updated**
 
-- Data Cleaning
-- Feature Engineering
-- GroupBy
-- Aggregation
-- Pivot Tables
-- Crosstab
-- Ranking
-- query()
-- eval()
-- Business KPI Analysis
+- Added PySpark to the learning roadmap.
+- Added the PySpark environment setup to the achievements record.
+- Prepared the repository for distributed data-processing exercises.
 
 ---
 
-# 🚀 Version 1.1.0
+**# 🚀 Version 2.0.0 – July 2026**
 
-## Added
+**Status:** Released
 
-### NumPy Portfolio Project
+**## Added**
 
-Retail Store Sales Analytics
+- Restructured Project Atlas repository.
+- Organized learning materials into technology-specific folders.
+- Added NumPy learning materials.
+- Added Pandas learning materials.
+- Added completed portfolio projects.
+- Added project-level documentation.
+- Introduced progress tracking and roadmap documentation.
 
-Topics included:
+**## Portfolio Projects**
 
-- Arrays
-- Broadcasting
-- Boolean Masking
-- Statistical Analysis
-- Business Metrics
-- Vectorized Computation
+- Project 01 – Retail Store Sales Analytics using NumPy.
+- Project 02 – Business Sales Analytics using Pandas.
 
----
+**## Documentation**
 
-# 🚀 Version 1.0.0
-
-## Initial Release
-
-Project Atlas officially created.
-
-### Repository Structure
-
-Added
-
-- Python
-- NumPy
-- Pandas
-- PySpark
-- Azure Databricks
-- SQL
-- Visualization
-- Machine Learning
-
-Created
-
-- Notes
-- Projects
-- datasets
-- README
+- `README.md`
+- `Progress.md`
+- `Roadmap.md`
+- `Achievements.md`
+- `CHANGELOG.md`
 
 ---
 
-# 📅 Future Releases
+**# 🚀 Version 1.2.0 – July 2026**
 
-## Version 2.1.0
+**Status:** Historical milestone
 
-Planned
+**## Focus**
 
-### PySpark
-
-- Spark Fundamentals
-- Spark DataFrames
-- Transformations
-- Aggregations
-- Window Functions
-- Spark SQL
-
-### Portfolio
-
-Project 03 – Retail ETL Pipeline
+- Continued Python and numerical computing practice.
+- Improved NumPy problem-solving skills.
+- Practiced array manipulation and statistical operations.
+- Expanded practical learning exercises.
 
 ---
 
-## Version 2.2.0
+**# 🚀 Version 1.1.0 – July 2026**
 
-Azure Databricks
+**Status:** Historical milestone
 
-- Workspace
-- Compute
-- Delta Lake
-- Jobs
-- Pipelines
+**## Focus**
 
-Portfolio
-
-Azure Retail Analytics
+- Expanded Python fundamentals.
+- Practiced data structures and functions.
+- Started structured NumPy learning.
+- Organized daily learning notes.
 
 ---
 
-## Version 3.0.0
+**# 🚀 Version 1.0.0 – Initial Release**
 
-Machine Learning
+**Status:** Initial Foundation
 
-- Regression
-- Classification
-- Clustering
-- Model Evaluation
+**## Added**
 
-Portfolio
-
-Machine Learning Capstone
-
----
-
-# 📈 Repository Growth
-
-| Version | Major Achievement |
-|----------|-------------------|
-| 1.0.0 | Repository Created |
-| 1.1.0 | NumPy Completed |
-| 1.2.0 | Pandas Completed |
-| 2.0.0 | Repository Professional Refresh |
-| 2.1.0 | PySpark *(Planned)* |
-| 2.2.0 | Azure Databricks *(Planned)* |
-| 3.0.0 | Machine Learning *(Planned)* |
+- Established Project Atlas.
+- Defined the learning direction.
+- Started Python fundamentals.
+- Created the initial learning repository.
+- Established the goal of building practical data and AI engineering skills.
 
 ---
 
-> Every version represents a meaningful milestone in the evolution of Project Atlas.
+**# 🔮 Upcoming Release – Version 2.5.0**
+
+**Target:** Day 23 and subsequent PySpark learning milestones.
+
+**## Planned Additions**
+
+- Day 23 – DataFrame Transformations.
+- Column creation using `withColumn()`.
+- Column renaming using `withColumnRenamed()`.
+- Column removal using `drop()`.
+- Conditional expressions using `when()` and `otherwise()`.
+- Null value handling.
+- Chained transformations.
+- Practical data transformation exercises.
+
+**## Future Milestones**
+
+- PySpark Aggregations.
+- PySpark Joins.
+- Window Functions.
+- Spark SQL.
+- Data Reading and Writing.
+- Retail ETL Pipeline.
+- Azure Databricks Integration.
+- Delta Lake and Medallion Architecture.
+
+---
+
+**# 📌 Repository Maintenance**
+
+This changelog records meaningful learning milestones, completed modules, portfolio additions, and structural repository changes.
+
+Minor daily exercises and routine corrections are documented in their respective daily notes unless they introduce a significant project-level change.
+
+---
+
+**🚀 Project Atlas – Continuous Learning, Practical Engineering, and Measurable Progress.**
