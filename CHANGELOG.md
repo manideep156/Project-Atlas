@@ -1,14 +1,44 @@
-**# 📜 Project Atlas – Changelog**
+# 📜 Project Atlas – Changelog
 
 > A chronological record of significant updates, learning milestones, repository improvements, and project additions.
 
 ---
 
-**# 🚀 Version 2.4.0 – November 2, 2026**
+# 🚀 Version 2.5.0 – November 3, 2026
 
 **Status:** Released
 
-**## Added**
+## Added
+
+- Completed Day 23 – PySpark DataFrame Transformations & Data Cleaning.
+- Added detailed notes on DataFrame transformations and immutability.
+- Covered column creation and modification using withColumn().
+- Added column renaming using withColumnRenamed().
+- Covered column removal using drop().
+- Introduced conditional expressions using when() and otherwise().
+- Added NULL value identification using isNull() and isNotNull().
+- Covered missing value handling using na.fill() and na.drop().
+- Added value standardization using na.replace().
+- Practiced chaining multiple DataFrame transformations.
+- Added Employee Data Transformation Challenge.
+- Added PySpark transformation and data cleaning interview questions.
+
+## Updated
+
+- Updated `Day_23.md` with detailed learning notes and completed status.
+- Updated `Progress.md` to 23 completed learning sessions.
+- Updated overall progress to 38%.
+- Updated PySpark skills and completed learning modules.
+- Updated the current learning focus to Day 24.
+- Updated the next learning milestone to PySpark filtering, sorting, and aggregations.
+
+---
+
+# 🚀 Version 2.4.0 – November 2, 2026
+
+**Status:** Released
+
+## Added
 
 - Completed Day 22 – Spark Architecture & DataFrame Fundamentals.
 - Added detailed notes on Apache Spark architecture.
@@ -20,7 +50,7 @@
 - Added Employee Data Analysis Mini Challenge.
 - Added Spark architecture and DataFrame interview questions.
 
-**## Updated**
+## Updated
 
 - Updated `Day_22.md` with completed status.
 - Updated `Progress.md` to 22 completed learning sessions.
@@ -31,11 +61,11 @@
 
 ---
 
-**# 🚀 Version 2.3.0 – August 1, 2026**
+# 🚀 Version 2.3.0 – August 1, 2026
 
 **Status:** Released
 
-**## Added**
+## Added
 
 - Introduced PySpark as the fourth learning phase.
 - Configured Java 17.
@@ -47,7 +77,7 @@
 - Completed initial SparkSession and DataFrame setup.
 - Completed Day 21 – PySpark Foundations & Environment Setup.
 
-**## Updated**
+## Updated
 
 - Added PySpark to the learning roadmap.
 - Added the PySpark environment setup to the achievements record.
@@ -55,11 +85,11 @@
 
 ---
 
-**# 🚀 Version 2.0.0 – July 2026**
+# 🚀 Version 2.0.0 – July 2026
 
 **Status:** Released
 
-**## Added**
+## Added
 
 - Restructured Project Atlas repository.
 - Organized learning materials into technology-specific folders.
@@ -69,12 +99,12 @@
 - Added project-level documentation.
 - Introduced progress tracking and roadmap documentation.
 
-**## Portfolio Projects**
+## Portfolio Projects
 
 - Project 01 – Retail Store Sales Analytics using NumPy.
 - Project 02 – Business Sales Analytics using Pandas.
 
-**## Documentation**
+## Documentation
 
 - `README.md`
 - `Progress.md`
@@ -84,11 +114,11 @@
 
 ---
 
-**# 🚀 Version 1.2.0 – July 2026**
+# 🚀 Version 1.2.0 – July 2026
 
 **Status:** Historical milestone
 
-**## Focus**
+## Focus
 
 - Continued Python and numerical computing practice.
 - Improved NumPy problem-solving skills.
@@ -97,11 +127,11 @@
 
 ---
 
-**# 🚀 Version 1.1.0 – July 2026**
+# 🚀 Version 1.1.0 – July 2026
 
 **Status:** Historical milestone
 
-**## Focus**
+## Focus
 
 - Expanded Python fundamentals.
 - Practiced data structures and functions.
@@ -110,11 +140,11 @@
 
 ---
 
-**# 🚀 Version 1.0.0 – Initial Release**
+# 🚀 Version 1.0.0 – Initial Release
 
 **Status:** Initial Foundation
 
-**## Added**
+## Added
 
 - Established Project Atlas.
 - Defined the learning direction.
@@ -124,24 +154,23 @@
 
 ---
 
-**# 🔮 Upcoming Release – Version 2.5.0**
+# 🔮 Upcoming Release – Version 2.6.0
 
-**Target:** Day 23 and subsequent PySpark learning milestones.
+**Target:** Day 24 and subsequent PySpark learning milestones.
 
-**## Planned Additions**
+## Planned Additions
 
-- Day 23 – DataFrame Transformations.
-- Column creation using `withColumn()`.
-- Column renaming using `withColumnRenamed()`.
-- Column removal using `drop()`.
-- Conditional expressions using `when()` and `otherwise()`.
-- Null value handling.
-- Chained transformations.
-- Practical data transformation exercises.
+- Day 24 – DataFrame Filtering, Sorting & Aggregations.
+- Row filtering using filter() and where().
+- Column selection and column expressions.
+- Duplicate handling using distinct() and dropDuplicates().
+- Sorting using orderBy() and sort().
+- Grouping records using groupBy().
+- Aggregation functions using count(), sum(), avg(), min(), and max().
+- Employee Department Analytics Challenge.
 
-**## Future Milestones**
+## Future Milestones
 
-- PySpark Aggregations.
 - PySpark Joins.
 - Window Functions.
 - Spark SQL.
@@ -152,7 +181,7 @@
 
 ---
 
-**# 📌 Repository Maintenance**
+# 📌 Repository Maintenance
 
 This changelog records meaningful learning milestones, completed modules, portfolio additions, and structural repository changes.
 
