@@ -1,3 +1,4 @@
+
 # 🚀 Project Atlas
 
 > A structured roadmap documenting my journey from Python Fundamentals to Enterprise Data Analytics, Data Engineering, Machine Learning, and Artificial Intelligence.
@@ -8,15 +9,15 @@
 
 | Metric | Status |
 |---|---|
-| **Learning Sessions Completed** | **23** |
+| **Learning Sessions Completed** | **24** |
 | **Portfolio Projects Completed** | **2** |
 | **Completed Phases** | **Python • NumPy • Pandas** |
 | **Current Phase** | **Phase 4 – PySpark** |
-| **Current Topic** | **DataFrame Filtering, Sorting & Aggregations** |
+| **Current Topic** | **PySpark Joins & Combining DataFrames** |
 
 ### Overall Completion
 
-    ███████████████████████░░░░░░░░░░░░░░░ 38%
+    █████████████████████████░░░░░░░░░░░░░░░ 40%
 
 ---
 
@@ -57,8 +58,12 @@
 | Advanced DataFrame Transformations | ✅ |
 | Conditional Transformations | ✅ |
 | NULL Value Handling | ✅ |
-| DataFrame Filtering & Sorting | ⬜ |
-| Aggregations | ⬜ |
+| DataFrame Filtering | ✅ |
+| Column Selection & Expressions | ✅ |
+| Deduplication | ✅ |
+| Sorting | ✅ |
+| Aggregations | ✅ |
+| Analytical Transformation Pipelines | ✅ |
 | Joins | ⬜ |
 | Window Functions | ⬜ |
 | Spark SQL | ⬜ |
@@ -199,15 +204,53 @@
 
 ✅ Transformation Chaining
 
-⬜ DataFrame Filtering & Sorting
+✅ DataFrame Filtering using filter() and where()
 
-⬜ Aggregations
+✅ Logical Operators and Compound Conditions
+
+✅ isin() and between()
+
+✅ Column Selection using select()
+
+✅ Column Expressions using expr()
+
+✅ Column Aliasing using alias()
+
+✅ Deduplication using distinct() and dropDuplicates()
+
+✅ Sorting using orderBy() and sort()
+
+✅ Ascending and Descending Sorting
+
+✅ Multi-column Sorting
+
+✅ Grouping using groupBy()
+
+✅ Aggregations using agg()
+
+✅ count()
+
+✅ sum()
+
+✅ avg()
+
+✅ min()
+
+✅ max()
+
+✅ Multi-column Grouping
+
+✅ Overall DataFrame Aggregations
+
+✅ Analytical Transformation Pipelines
 
 ⬜ Joins
 
 ⬜ Window Functions
 
 ⬜ Spark SQL
+
+⬜ Reading & Writing Data
 
 ⬜ ETL Pipelines
 
@@ -219,14 +262,13 @@
 
 **Current Objectives**
 
-- Understand DataFrame filtering using filter() and where().
-- Learn column selection and column expressions.
-- Work with distinct() and dropDuplicates().
-- Sort records using orderBy() and sort().
-- Understand groupBy() and aggregation operations.
-- Practice count(), sum(), avg(), min(), and max().
-- Perform department-level business analysis.
-- Practice with realistic employee datasets.
+- Understand different types of DataFrame joins.
+- Learn how to combine multiple DataFrames.
+- Work with inner, left, right, and full outer joins.
+- Understand left semi and left anti joins.
+- Learn join conditions and key-based matching.
+- Handle duplicate columns and join-related data issues.
+- Practice combining multiple datasets using realistic business scenarios.
 
 ---
 
@@ -244,6 +286,9 @@
 | Spark Architecture Fundamentals | ✅ |
 | Spark DataFrame Fundamentals | ✅ |
 | PySpark Transformations & Data Cleaning | ✅ |
+| PySpark Filtering & Sorting | ✅ |
+| PySpark Aggregations | ✅ |
+| PySpark Analytical Pipelines | ✅ |
 | Azure Databricks | ⬜ |
 | SQL | ⬜ |
 | Data Visualization | ⬜ |
@@ -255,7 +300,7 @@
 
 | Metric | Value |
 |---|---:|
-| Learning Sessions | **23** |
+| Learning Sessions | **24** |
 | Portfolio Projects | **2** |
 | Completed Phases | **3** |
 | Current Phase | **PySpark** |
@@ -277,29 +322,37 @@
 
 # 🚀 Next Milestone
 
+Continue building PySpark fundamentals by learning DataFrame Joins and combining multiple datasets, followed by Window Functions, Spark SQL, and data ingestion/export workflows.
+
 Complete the PySpark Fundamentals phase and build **Project 03 – Retail ETL Pipeline**, demonstrating scalable data processing using Apache Spark.
 
 ---
 
 # 📅 Latest Progress
 
-## ✅ Day 23 – PySpark DataFrame Transformations & Data Cleaning
+## ✅ Day 24 – PySpark DataFrame Filtering, Sorting & Aggregations
 
-**Date:** **November 3, 2026**
+**Date:** **November 24, 2026**
 
 ### Topics Covered
 
-- DataFrame Transformations and Immutability.
-- Adding and Modifying Columns using withColumn().
-- Renaming Columns using withColumnRenamed().
-- Removing Columns using drop().
-- Conditional Expressions using when() and otherwise().
-- Identifying NULL Values using isNull() and isNotNull().
-- Filling Missing Values using na.fill().
-- Removing Missing Records using na.drop().
-- Replacing Values using na.replace().
-- Chaining Multiple DataFrame Transformations.
-- Building Data Cleaning and Transformation Workflows.
+- DataFrame filtering using filter() and where().
+- Conditional filtering using comparison operators.
+- Logical operators using &, |, and ~.
+- Filtering using isin() and between().
+- Column selection using select().
+- Calculated expressions and column aliasing.
+- SQL-style expressions using expr().
+- Deduplication using distinct() and dropDuplicates().
+- Ascending and descending sorting.
+- Multi-column sorting using orderBy() and sort().
+- Grouping using groupBy().
+- Multiple aggregations using agg().
+- Aggregation functions: count(), sum(), avg(), min(), and max().
+- Grouping using multiple columns.
+- Overall DataFrame aggregations.
+- Analytical transformation pipelines.
+- Employee and department-level analytics.
 
 ---
 
@@ -307,56 +360,76 @@ Complete the PySpark Fundamentals phase and build **Project 03 – Retail ETL Pi
 
 ✅ Created and worked with the Employee DataFrame.
 
-✅ Standardized Tech department values to IT.
+✅ Practiced filtering using filter() and where().
 
-✅ Renamed employee_id to emp_id.
+✅ Combined multiple filtering conditions using logical operators.
 
-✅ Identified employees with missing salaries.
+✅ Applied isin() and between().
 
-✅ Filled missing salary values.
+✅ Selected specific columns using select().
 
-✅ Created annual_salary and bonus columns.
+✅ Created calculated expressions using column operations.
 
-✅ Classified employees based on experience.
+✅ Practiced alias() and expr().
 
-✅ Classified employees based on salary.
+✅ Identified unique values using distinct().
 
-✅ Created salary_status to identify originally missing salaries.
+✅ Removed duplicates using dropDuplicates().
 
-✅ Removed the department column.
+✅ Created and worked with a duplicate test dataset.
 
-✅ Displayed the final DataFrame and inspected its schema.
+✅ Sorted records using ascending and descending order.
 
-✅ Completed the Employee Data Transformation Challenge.
+✅ Practiced multi-column sorting.
+
+✅ Grouped employees by department.
+
+✅ Calculated employee count, average salary, total salary, minimum salary, and maximum salary.
+
+✅ Performed department-city aggregations.
+
+✅ Performed overall DataFrame aggregations.
+
+✅ Built chained analytical transformation pipelines.
+
+✅ Completed the Employee Department Analytics Challenge.
+
+✅ Completed the HR Workforce Insights Bonus Challenge.
 
 ---
 
 ### Key Achievements
 
-- Understood DataFrame immutability and transformation behavior.
-- Learned how to add, modify, rename, and remove columns.
-- Applied conditional expressions to implement business rules.
-- Practiced identifying and handling missing values.
-- Learned how to standardize inconsistent categorical values.
-- Combined multiple transformations into a structured pipeline.
-- Applied PySpark transformations to a realistic employee dataset.
+- Strengthened DataFrame filtering and conditional logic.
+- Learned how to select and derive analytical columns.
+- Practiced deduplication using full-row and key-based approaches.
+- Learned how to sort data using multiple columns.
+- Applied grouping and multiple aggregate functions.
+- Built analytical pipelines using chained transformations.
+- Compared employee salaries against overall and department-level averages.
+- Calculated departmental salary contributions.
+- Applied PySpark analytical operations to realistic business scenarios.
 
 ---
 
 ### Current Status
 
-🟢 Day 23 successfully completed.
+🟢 Day 24 successfully completed.
 
-All planned learning objectives and practical exercises for today's session have been completed.
+All planned learning objectives, mini-checks, practical challenges, and bonus challenges for today's session have been completed.
 
 ---
 
-### Focus for Day 24
+### Focus for Day 25
 
-- DataFrame filtering using filter() and where().
-- Column selection and column expressions.
-- distinct() and dropDuplicates().
-- Sorting using orderBy() and sort().
-- Grouping using groupBy().
-- Aggregation functions: count(), sum(), avg(), min(), and max().
-- Employee Department Analytics Challenge.
+- PySpark Joins & Combining DataFrames.
+- Understanding join conditions and keys.
+- Inner joins.
+- Left outer joins.
+- Right outer joins.
+- Full outer joins.
+- Left semi joins.
+- Left anti joins.
+- Handling duplicate columns after joins.
+- Joining multiple DataFrames.
+- Business-oriented join scenarios.

@@ -154,20 +154,26 @@
 
 ---
 
-# 🔮 Upcoming Release – Version 2.6.0
 
-**Target:** Day 24 and subsequent PySpark learning milestones.
+## [2.6.0] — 2026-11-24
 
-## Planned Additions
+### Added
+- Completed Project Atlas Day 24 — PySpark DataFrame Filtering, Sorting & Aggregations.
+- Added filtering operations using filter(), where(), isin(), between(), and logical operators.
+- Added column selection, calculated expressions, alias(), and expr().
+- Added deduplication concepts using distinct() and dropDuplicates().
+- Added ascending, descending, and multi-column sorting.
+- Added grouping and aggregate operations using count(), sum(), avg(), min(), and max().
+- Added multi-step analytical transformation pipelines.
+- Completed Employee Department Analytics practical challenge.
+- Completed HR Workforce Insights bonus challenge.
+- Added Day_24.md detailed session documentation.
 
-- Day 24 – DataFrame Filtering, Sorting & Aggregations.
-- Row filtering using filter() and where().
-- Column selection and column expressions.
-- Duplicate handling using distinct() and dropDuplicates().
-- Sorting using orderBy() and sort().
-- Grouping records using groupBy().
-- Aggregation functions using count(), sum(), avg(), min(), and max().
-- Employee Department Analytics Challenge.
+### Learning
+- Strengthened PySpark DataFrame analytical operations.
+- Practiced aggregation-based business analysis.
+- Applied DataFrame transformations to employee and department analytics.
+- Improved understanding of Spark lazy evaluation and transformation pipelines.
 
 ## Future Milestones
 
